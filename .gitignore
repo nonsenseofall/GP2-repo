@@ -1,0 +1,43 @@
+# мусорные файлы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+
+# Python / Jupyter 
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter/lab/workspaces/
+
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.sav
+*.dta
+*.zip
+*.gz
+*.7z
+
+# --- Логи/кеши/артефакты ---
+logs/
+*.log
+*.tmp
+*.bak
+.cache/
+pip-wheel-metadata/
+
+# --- Виртуальные окружения ---
+venv/
+.venv/
+env/
+.conda/
+.python-version
+
+# --- Веб-драйверы/бинарники (для Selenium) ---
+chromedriver*
+geckodriver*
