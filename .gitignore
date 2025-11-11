@@ -23,7 +23,7 @@ __pycache__/
 *.gz
 *.7z
 
-# --- Логи/кеши/артефакты ---
+# Логи/кеши/артефакты
 logs/
 *.log
 *.tmp
@@ -31,13 +31,13 @@ logs/
 .cache/
 pip-wheel-metadata/
 
-# --- Виртуальные окружения ---
+# Виртуальные окружения
 venv/
 .venv/
 env/
 .conda/
 .python-version
 
-# --- Веб-драйверы/бинарники (для Selenium) ---
+# Веб-драйверы/бинарники (для Selenium)
 chromedriver*
 geckodriver*
