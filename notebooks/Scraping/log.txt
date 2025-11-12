@@ -1,0 +1,596 @@
+2025-11-12 03:20:45,464 [INFO] ====== WebDriver manager ======
+2025-11-12 03:20:48,034 [INFO] Get LATEST chromedriver version for google-chrome
+2025-11-12 03:20:48,417 [INFO] Get LATEST chromedriver version for google-chrome
+2025-11-12 03:20:48,763 [INFO] There is no [win64] chromedriver "142.0.7444.162" for browser google-chrome "142.0.7444" in cache
+2025-11-12 03:20:48,763 [INFO] Get LATEST chromedriver version for google-chrome
+2025-11-12 03:20:49,532 [INFO] WebDriver version 142.0.7444.162 selected
+2025-11-12 03:20:49,536 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.162/win32/chromedriver-win32.zip
+2025-11-12 03:20:49,536 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.162/win32/chromedriver-win32.zip
+2025-11-12 03:20:49,927 [INFO] Driver downloading response is 200
+2025-11-12 03:20:50,880 [INFO] Get LATEST chromedriver version for google-chrome
+2025-11-12 03:20:51,330 [INFO] Driver has been saved in cache [C:\Users\chuda\.wdm\drivers\chromedriver\win64\142.0.7444.162]
+2025-11-12 03:20:52,895 [INFO] Успешно запущен драйвер без headless.
+2025-11-12 03:20:58,763 [INFO] Последняя карточка на этой странице: {'page': 1, 'title': '24. Mass Effect 2', 'link': 'https://www.metacritic.com/game/mass-effect-2/'}
+2025-11-12 03:21:03,973 [INFO] Последняя карточка на этой странице: {'page': 2, 'title': '48. Madden NFL 2003', 'link': 'https://www.metacritic.com/game/madden-nfl-2003/'}
+2025-11-12 03:21:08,598 [INFO] Последняя карточка на этой странице: {'page': 3, 'title': '72. BioShock Infinite', 'link': 'https://www.metacritic.com/game/bioshock-infinite/'}
+2025-11-12 03:21:13,097 [INFO] Последняя карточка на этой странице: {'page': 4, 'title': '96. Grand Theft Auto: Chinatown Wars', 'link': 'https://www.metacritic.com/game/grand-theft-auto-chinatown-wars/'}
+2025-11-12 03:21:18,039 [INFO] Последняя карточка на этой странице: {'page': 5, 'title': '120. Mass Effect 3', 'link': 'https://www.metacritic.com/game/mass-effect-3/'}
+2025-11-12 03:21:24,612 [INFO] Последняя карточка на этой странице: {'page': 6, 'title': '144. NFL 2K3', 'link': 'https://www.metacritic.com/game/nfl-2k3/'}
+2025-11-12 03:21:28,539 [INFO] Последняя карточка на этой странице: {'page': 7, 'title': '168. ESPN NFL 2K5', 'link': 'https://www.metacritic.com/game/espn-nfl-2k5/'}
+2025-11-12 03:21:36,792 [INFO] Последняя карточка на этой странице: {'page': 8, 'title': '192. Journey', 'link': 'https://www.metacritic.com/game/journey/'}
+2025-11-12 03:21:41,447 [INFO] Последняя карточка на этой странице: {'page': 9, 'title': "216. F1 Challenge '99-'02", 'link': 'https://www.metacritic.com/game/f1-challenge-99-02/'}
+2025-11-12 03:21:45,917 [INFO] Последняя карточка на этой странице: {'page': 10, 'title': '240. DOA2: Hardcore', 'link': 'https://www.metacritic.com/game/doa2-hardcore/'}
+2025-11-12 03:21:52,427 [INFO] Последняя карточка на этой странице: {'page': 11, 'title': '264. Hollow Knight: Silksong', 'link': 'https://www.metacritic.com/game/hollow-knight-silksong/'}
+2025-11-12 03:21:57,444 [INFO] Последняя карточка на этой странице: {'page': 12, 'title': '288. Animal Crossing: New Horizons', 'link': 'https://www.metacritic.com/game/animal-crossing-new-horizons/'}
+2025-11-12 03:22:02,839 [INFO] Последняя карточка на этой странице: {'page': 13, 'title': '312. The Legend of Zelda: The Wind Waker HD', 'link': 'https://www.metacritic.com/game/the-legend-of-zelda-the-wind-waker-hd/'}
+2025-11-12 03:22:07,360 [INFO] Последняя карточка на этой странице: {'page': 14, 'title': '336. MVP Baseball 2004', 'link': 'https://www.metacritic.com/game/mvp-baseball-2004/'}
+2025-11-12 03:22:11,512 [INFO] Последняя карточка на этой странице: {'page': 15, 'title': '360. The Seance of Blake Manor', 'link': 'https://www.metacritic.com/game/the-seance-of-blake-manor/'}
+2025-11-12 03:22:18,437 [INFO] Последняя карточка на этой странице: {'page': 16, 'title': '384. Halo 2 Multiplayer Map Pack', 'link': 'https://www.metacritic.com/game/halo-2-multiplayer-map-pack/'}
+2025-11-12 03:22:24,769 [INFO] Последняя карточка на этой странице: {'page': 17, 'title': '408. Rez Infinite', 'link': 'https://www.metacritic.com/game/rez-infinite/'}
+2025-11-12 03:22:30,088 [INFO] Последняя карточка на этой странице: {'page': 18, 'title': '432. NBA Street V3', 'link': 'https://www.metacritic.com/game/nba-street-v3/'}
+2025-11-12 03:22:34,385 [INFO] Последняя карточка на этой странице: {'page': 19, 'title': '456. Fire Emblem: Three Houses', 'link': 'https://www.metacritic.com/game/fire-emblem-three-houses/'}
+2025-11-12 03:22:39,714 [INFO] Последняя карточка на этой странице: {'page': 20, 'title': '480. Dark Souls: Artorias of the Abyss', 'link': 'https://www.metacritic.com/game/dark-souls-artorias-of-the-abyss/'}
+2025-11-12 03:22:44,041 [INFO] Последняя карточка на этой странице: {'page': 21, 'title': '504. WarioWare, Inc.: Mega Microgame$!', 'link': 'https://www.metacritic.com/game/warioware-inc-mega-microgame/'}
+2025-11-12 03:22:49,381 [INFO] Последняя карточка на этой странице: {'page': 22, 'title': '528. Microsoft Flight Simulator 2004: A Century of Flight', 'link': 'https://www.metacritic.com/game/microsoft-flight-simulator-2004-a-century-of-flig/'}
+2025-11-12 03:22:54,039 [INFO] Последняя карточка на этой странице: {'page': 23, 'title': '552. F.E.A.R.', 'link': 'https://www.metacritic.com/game/f-e-a-r/'}
+2025-11-12 03:23:00,850 [INFO] Последняя карточка на этой странице: {'page': 24, 'title': '576. Warcraft III: The Frozen Throne', 'link': 'https://www.metacritic.com/game/warcraft-iii-the-frozen-throne/'}
+2025-11-12 03:23:06,475 [INFO] Последняя карточка на этой странице: {'page': 25, 'title': '600. Divinity: Original Sin Enhanced Edition', 'link': 'https://www.metacritic.com/game/divinity-original-sin-enhanced-edition/'}
+2025-11-12 03:23:12,426 [INFO] Последняя карточка на этой странице: {'page': 26, 'title': '624. Grand Theft Auto: Liberty City Stories', 'link': 'https://www.metacritic.com/game/grand-theft-auto-liberty-city-stories/'}
+2025-11-12 03:23:17,629 [INFO] Последняя карточка на этой странице: {'page': 27, 'title': '648. Diablo III: Eternal Collection', 'link': 'https://www.metacritic.com/game/diablo-iii-eternal-collection/'}
+2025-11-12 03:23:23,349 [INFO] Последняя карточка на этой странице: {'page': 28, 'title': '672. Night in the Woods', 'link': 'https://www.metacritic.com/game/night-in-the-woods/'}
+2025-11-12 03:23:29,122 [INFO] Последняя карточка на этой странице: {'page': 29, 'title': '696. Injustice 2', 'link': 'https://www.metacritic.com/game/injustice-2/'}
+2025-11-12 03:23:33,039 [INFO] Последняя карточка на этой странице: {'page': 30, 'title': "720. Kathy Rain: Director's Cut", 'link': 'https://www.metacritic.com/game/kathy-rain-directors-cut/'}
+2025-11-12 03:23:37,422 [INFO] Последняя карточка на этой странице: {'page': 31, 'title': '744. The Elder Scrolls III: Morrowind', 'link': 'https://www.metacritic.com/game/the-elder-scrolls-iii-morrowind/'}
+2025-11-12 03:23:41,889 [INFO] Последняя карточка на этой странице: {'page': 32, 'title': '768. Battlefield 3: Armored Kill', 'link': 'https://www.metacritic.com/game/battlefield-3-armored-kill/'}
+2025-11-12 03:23:46,739 [INFO] Последняя карточка на этой странице: {'page': 33, 'title': '792. Pokemon HeartGold Version', 'link': 'https://www.metacritic.com/game/pokemon-heartgold-version/'}
+2025-11-12 03:23:50,889 [INFO] Последняя карточка на этой странице: {'page': 34, 'title': '816. Katamari Damacy REROLL', 'link': 'https://www.metacritic.com/game/katamari-damacy-reroll/'}
+2025-11-12 03:23:55,204 [INFO] Последняя карточка на этой странице: {'page': 35, 'title': '840. Zeus: Master of Olympus', 'link': 'https://www.metacritic.com/game/zeus-master-of-olympus/'}
+2025-11-12 03:24:02,585 [INFO] Последняя карточка на этой странице: {'page': 36, 'title': '864. Sonic Advance', 'link': 'https://www.metacritic.com/game/sonic-advance/'}
+2025-11-12 03:24:06,960 [INFO] Последняя карточка на этой странице: {'page': 37, 'title': '888. Total War: Shogun 2 - Fall of the Samurai', 'link': 'https://www.metacritic.com/game/total-war-shogun-2-fall-of-the-samurai/'}
+2025-11-12 03:24:12,487 [INFO] Последняя карточка на этой странице: {'page': 38, 'title': '912. Kentucky Route Zero', 'link': 'https://www.metacritic.com/game/kentucky-route-zero/'}
+2025-11-12 03:24:18,193 [INFO] Последняя карточка на этой странице: {'page': 39, 'title': '936. Freedom Force vs The 3rd Reich', 'link': 'https://www.metacritic.com/game/freedom-force-vs-the-3rd-reich/'}
+2025-11-12 03:24:23,021 [INFO] Последняя карточка на этой странице: {'page': 40, 'title': '960. Radiant Silvergun', 'link': 'https://www.metacritic.com/game/radiant-silvergun/'}
+2025-11-12 03:24:29,808 [INFO] Последняя карточка на этой странице: {'page': 41, 'title': '984. Galactic Civilizations II: Dread Lords', 'link': 'https://www.metacritic.com/game/galactic-civilizations-ii-dread-lords/'}
+2025-11-12 03:24:35,863 [INFO] Последняя карточка на этой странице: {'page': 42, 'title': '1,008.', 'link': 'https://www.metacritic.com/game/amplitude-2003/'}
+2025-11-12 03:24:40,823 [INFO] Последняя карточка на этой странице: {'page': 43, 'title': '1,032. Indiana Jones and the Great Circle', 'link': 'https://www.metacritic.com/game/indiana-jones-and-the-great-circle/'}
+2025-11-12 03:24:47,227 [INFO] Последняя карточка на этой странице: {'page': 44, 'title': '1,056. IL-2 Sturmovik: 1946', 'link': 'https://www.metacritic.com/game/il-2-sturmovik-1946/'}
+2025-11-12 03:24:51,795 [INFO] Последняя карточка на этой странице: {'page': 45, 'title': '1,080. OlliOlli2: Welcome to Olliwood', 'link': 'https://www.metacritic.com/game/olliolli2/'}
+2025-11-12 03:24:58,051 [INFO] Последняя карточка на этой странице: {'page': 46, 'title': "1,104. Shantae: Risky's Revenge", 'link': 'https://www.metacritic.com/game/shantae-riskys-revenge/'}
+2025-11-12 03:25:02,173 [INFO] Последняя карточка на этой странице: {'page': 47, 'title': '1,128. StarVaders', 'link': 'https://www.metacritic.com/game/starvaders/'}
+2025-11-12 03:25:06,606 [INFO] Последняя карточка на этой странице: {'page': 48, 'title': '1,152. Lara Croft and the Guardian of Light', 'link': 'https://www.metacritic.com/game/lara-croft-and-the-guardian-of-light/'}
+2025-11-12 03:25:11,359 [INFO] Последняя карточка на этой странице: {'page': 49, 'title': '1,176. BlazBlue: Continuum Shift', 'link': 'https://www.metacritic.com/game/blazblue-continuum-shift/'}
+2025-11-12 03:25:16,533 [INFO] Последняя карточка на этой странице: {'page': 50, 'title': '1,200. The Lord of the Rings Online: Mines of Moria', 'link': 'https://www.metacritic.com/game/the-lord-of-the-rings-online-mines-of-moria/'}
+2025-11-12 03:25:22,819 [INFO] Последняя карточка на этой странице: {'page': 51, 'title': "1,224. Monkey Island 2 Special Edition: LeChuck's Revenge", 'link': 'https://www.metacritic.com/game/monkey-island-2-special-edition-lechucks-revenge/'}
+2025-11-12 03:25:28,944 [INFO] Последняя карточка на этой странице: {'page': 52, 'title': '1,248. Sam & Max Episode 204: Chariots of the Dogs', 'link': 'https://www.metacritic.com/game/sam-and-max-episode-204-chariots-of-the-dogs/'}
+2025-11-12 03:25:34,886 [INFO] Последняя карточка на этой странице: {'page': 53, 'title': '1,272. Football Manager 2022', 'link': 'https://www.metacritic.com/game/football-manager-2022/'}
+2025-11-12 03:25:41,446 [INFO] Последняя карточка на этой странице: {'page': 54, 'title': '1,296. Fire Emblem: Path of Radiance', 'link': 'https://www.metacritic.com/game/fire-emblem-path-of-radiance/'}
+2025-11-12 03:25:49,099 [INFO] Последняя карточка на этой странице: {'page': 55, 'title': '1,320. Metal Gear Solid: The Twin Snakes', 'link': 'https://www.metacritic.com/game/metal-gear-solid-the-twin-snakes/'}
+2025-11-12 03:25:54,220 [INFO] Последняя карточка на этой странице: {'page': 56, 'title': '1,344. The Last Door: Season 2', 'link': 'https://www.metacritic.com/game/the-last-door-season-2/'}
+2025-11-12 03:25:59,033 [INFO] Последняя карточка на этой странице: {'page': 57, 'title': '1,368. Silent Hill 3', 'link': 'https://www.metacritic.com/game/silent-hill-3/'}
+2025-11-12 03:26:06,401 [INFO] Последняя карточка на этой странице: {'page': 58, 'title': '1,392. Mario Golf: Advance Tour', 'link': 'https://www.metacritic.com/game/mario-golf-advance-tour/'}
+2025-11-12 03:26:12,356 [INFO] Последняя карточка на этой странице: {'page': 59, 'title': '1,416. Dispatch', 'link': 'https://www.metacritic.com/game/dispatch/'}
+2025-11-12 03:26:18,958 [INFO] Последняя карточка на этой странице: {'page': 60, 'title': '1,440. Beyond Good & Evil HD', 'link': 'https://www.metacritic.com/game/beyond-good-and-evil-hd/'}
+2025-11-12 03:26:24,714 [INFO] Последняя карточка на этой странице: {'page': 61, 'title': '1,464. Tales From The Borderlands: Episode 1 - Zer0 Sum', 'link': 'https://www.metacritic.com/game/borderlands-a-telltale-game-series/'}
+2025-11-12 03:26:29,566 [INFO] Последняя карточка на этой странице: {'page': 62, 'title': '1,488. s.p.l.i.t', 'link': 'https://www.metacritic.com/game/split-2/'}
+2025-11-12 03:26:35,158 [INFO] Последняя карточка на этой странице: {'page': 63, 'title': '1,512. Fear Effect 2: Retro Helix', 'link': 'https://www.metacritic.com/game/fear-effect-2-retro-helix/'}
+2025-11-12 03:26:43,939 [INFO] Последняя карточка на этой странице: {'page': 64, 'title': '1,536. Professor Layton and the Diabolical Box', 'link': 'https://www.metacritic.com/game/professor-layton-and-the-diabolical-box/'}
+2025-11-12 03:26:48,673 [INFO] Последняя карточка на этой странице: {'page': 65, 'title': '1,560. Dragon Quest III HD-2D Remake', 'link': 'https://www.metacritic.com/game/dragon-quest-iii-hd-2d-remake/'}
+2025-11-12 03:26:53,273 [INFO] Последняя карточка на этой странице: {'page': 66, 'title': '1,584. ElecHead', 'link': 'https://www.metacritic.com/game/elechead/'}
+2025-11-12 03:26:57,884 [INFO] Последняя карточка на этой странице: {'page': 67, 'title': '1,608. NASCAR Thunder 2003', 'link': 'https://www.metacritic.com/game/nascar-thunder-2003/'}
+2025-11-12 03:27:03,323 [INFO] Последняя карточка на этой странице: {'page': 68, 'title': '1,632. F1 2019', 'link': 'https://www.metacritic.com/game/f1-2019/'}
+2025-11-12 03:27:08,499 [INFO] Последняя карточка на этой странице: {'page': 69, 'title': '1,656.', 'link': 'https://www.metacritic.com/game/momodora-moonlit-farewell/'}
+2025-11-12 03:27:13,458 [INFO] Последняя карточка на этой странице: {'page': 70, 'title': "1,680. Tom Clancy's Ghost Recon", 'link': 'https://www.metacritic.com/game/tom-clancys-ghost-recon/'}
+2025-11-12 03:27:19,817 [INFO] Последняя карточка на этой странице: {'page': 71, 'title': '1,704. Just Shapes & Beats', 'link': 'https://www.metacritic.com/game/just-shapes-and-beats/'}
+2025-11-12 03:27:24,328 [INFO] Последняя карточка на этой странице: {'page': 72, 'title': '1,728. Kid Icarus: Uprising', 'link': 'https://www.metacritic.com/game/kid-icarus-uprising/'}
+2025-11-12 03:27:31,818 [INFO] Последняя карточка на этой странице: {'page': 73, 'title': '1,752. I Expect You To Die 2: The Spy And The Liar', 'link': 'https://www.metacritic.com/game/i-expect-you-to-die-2-the-spy-and-the-liar/'}
+2025-11-12 03:27:37,785 [INFO] Последняя карточка на этой странице: {'page': 74, 'title': '1,776.', 'link': 'https://www.metacritic.com/game/steins-gate/'}
+2025-11-12 03:27:42,414 [INFO] Последняя карточка на этой странице: {'page': 75, 'title': '1,800. One Finger Death Punch 2', 'link': 'https://www.metacritic.com/game/one-finger-death-punch-2/'}
+2025-11-12 03:27:49,365 [INFO] Последняя карточка на этой странице: {'page': 76, 'title': '1,824. Two Point Campus', 'link': 'https://www.metacritic.com/game/two-point-campus/'}
+2025-11-12 03:27:54,063 [INFO] Последняя карточка на этой странице: {'page': 77, 'title': '1,848. Madden NFL 09', 'link': 'https://www.metacritic.com/game/madden-nfl-09/'}
+2025-11-12 03:27:59,727 [INFO] Последняя карточка на этой странице: {'page': 78, 'title': '1,872. BYE-BYE BOXBOY!', 'link': 'https://www.metacritic.com/game/bye-bye-boxboy/'}
+2025-11-12 03:28:04,961 [INFO] Последняя карточка на этой странице: {'page': 79, 'title': '1,896. Castle Crashers Remastered', 'link': 'https://www.metacritic.com/game/castle-crashers-remastered/'}
+2025-11-12 03:28:12,775 [INFO] Последняя карточка на этой странице: {'page': 80, 'title': '1,920. FIFA 19', 'link': 'https://www.metacritic.com/game/fifa-19/'}
+2025-11-12 03:28:17,311 [INFO] Последняя карточка на этой странице: {'page': 81, 'title': '1,944. Gravity Rush', 'link': 'https://www.metacritic.com/game/gravity-rush/'}
+2025-11-12 03:28:23,059 [INFO] Последняя карточка на этой странице: {'page': 82, 'title': '1,968. Final Fantasy V', 'link': 'https://www.metacritic.com/game/final-fantasy-v/'}
+2025-11-12 03:28:27,555 [INFO] Последняя карточка на этой странице: {'page': 83, 'title': '1,992. Dust: An Elysian Tail', 'link': 'https://www.metacritic.com/game/dust-an-elysian-tail/'}
+2025-11-12 03:28:33,204 [INFO] Последняя карточка на этой странице: {'page': 84, 'title': '2,016. Counter-Strike: Global Offensive', 'link': 'https://www.metacritic.com/game/counter-strike-global-offensive/'}
+2025-11-12 03:28:38,954 [INFO] Последняя карточка на этой странице: {'page': 85, 'title': '2,040.', 'link': 'https://www.metacritic.com/game/reventure/'}
+2025-11-12 03:28:44,528 [INFO] Последняя карточка на этой странице: {'page': 86, 'title': '2,064. Street Fighter V: Champion Edition', 'link': 'https://www.metacritic.com/game/street-fighter-v-champion-edition/'}
+2025-11-12 03:28:52,560 [INFO] Последняя карточка на этой странице: {'page': 87, 'title': '2,088. Not For Broadcast', 'link': 'https://www.metacritic.com/game/not-for-broadcast/'}
+2025-11-12 03:28:57,938 [INFO] Последняя карточка на этой странице: {'page': 88, 'title': '2,112. Act of War: Direct Action', 'link': 'https://www.metacritic.com/game/act-of-war-direct-action/'}
+2025-11-12 03:29:03,236 [INFO] Последняя карточка на этой странице: {'page': 89, 'title': '2,136. Lovers in a Dangerous Spacetime', 'link': 'https://www.metacritic.com/game/lovers-in-a-dangerous-spacetime/'}
+2025-11-12 03:29:09,271 [INFO] Последняя карточка на этой странице: {'page': 90, 'title': '2,160.', 'link': 'https://www.metacritic.com/game/dreamscaper/'}
+2025-11-12 03:29:15,353 [INFO] Последняя карточка на этой странице: {'page': 91, 'title': '2,184. Blur', 'link': 'https://www.metacritic.com/game/blur/'}
+2025-11-12 03:29:20,375 [INFO] Последняя карточка на этой странице: {'page': 92, 'title': '2,208. Cult of the Lamb', 'link': 'https://www.metacritic.com/game/cult-of-the-lamb/'}
+2025-11-12 03:29:29,557 [INFO] Последняя карточка на этой странице: {'page': 93, 'title': '2,232. A Plague Tale: Requiem', 'link': 'https://www.metacritic.com/game/a-plague-tale-requiem/'}
+2025-11-12 03:29:37,959 [INFO] Последняя карточка на этой странице: {'page': 94, 'title': '2,256. Astalon: Tears of the Earth', 'link': 'https://www.metacritic.com/game/astalon-tears-of-the-earth/'}
+2025-11-12 03:29:43,391 [INFO] Последняя карточка на этой странице: {'page': 95, 'title': '2,280. Devil May Cry 3: Special Edition', 'link': 'https://www.metacritic.com/game/devil-may-cry-3-special-edition/'}
+2025-11-12 03:29:48,647 [INFO] Последняя карточка на этой странице: {'page': 96, 'title': '2,304. Remnant II: The Awakened King', 'link': 'https://www.metacritic.com/game/remnant-ii-the-awakened-king/'}
+2025-11-12 03:29:57,085 [INFO] Последняя карточка на этой странице: {'page': 97, 'title': '2,328. Shin Megami Tensei: Nocturne', 'link': 'https://www.metacritic.com/game/shin-megami-tensei-nocturne/'}
+2025-11-12 03:30:04,209 [INFO] Последняя карточка на этой странице: {'page': 98, 'title': '2,352. Ys Origin', 'link': 'https://www.metacritic.com/game/ys-origin/'}
+2025-11-12 03:30:08,691 [INFO] Последняя карточка на этой странице: {'page': 99, 'title': '2,376. The Sims 4: Growing Together', 'link': 'https://www.metacritic.com/game/the-sims-4-growing-together/'}
+2025-11-12 03:30:13,324 [INFO] Последняя карточка на этой странице: {'page': 100, 'title': '2,400. The Lord of the Rings: The Two Towers', 'link': 'https://www.metacritic.com/game/the-lord-of-the-rings-the-two-towers/'}
+2025-11-12 03:30:18,969 [INFO] Последняя карточка на этой странице: {'page': 101, 'title': '2,424. FIFA 15', 'link': 'https://www.metacritic.com/game/fifa-15/'}
+2025-11-12 03:30:26,114 [INFO] Последняя карточка на этой странице: {'page': 102, 'title': '2,448. Among Us VR', 'link': 'https://www.metacritic.com/game/among-us-vr/'}
+2025-11-12 03:30:32,438 [INFO] Последняя карточка на этой странице: {'page': 103, 'title': '2,472.', 'link': 'https://www.metacritic.com/game/battlefield-4/'}
+2025-11-12 03:30:40,070 [INFO] Последняя карточка на этой странице: {'page': 104, 'title': '2,496. Nancy Drew: Danger on Deception Island', 'link': 'https://www.metacritic.com/game/nancy-drew-danger-on-deception-island/'}
+2025-11-12 03:30:44,819 [INFO] Последняя карточка на этой странице: {'page': 105, 'title': '2,520. Supreme Commander: Forged Alliance', 'link': 'https://www.metacritic.com/game/supreme-commander-forged-alliance/'}
+2025-11-12 03:30:52,143 [INFO] Последняя карточка на этой странице: {'page': 106, 'title': '2,544. Star Wars: Jedi Starfighter', 'link': 'https://www.metacritic.com/game/star-wars-jedi-starfighter/'}
+2025-11-12 03:30:57,613 [INFO] Последняя карточка на этой странице: {'page': 107, 'title': '2,568. Cotton Reboot!', 'link': 'https://www.metacritic.com/game/cotton-reboot/'}
+2025-11-12 03:31:03,627 [INFO] Последняя карточка на этой странице: {'page': 108, 'title': '2,592. Mario Golf: Toadstool Tour', 'link': 'https://www.metacritic.com/game/mario-golf-toadstool-tour/'}
+2025-11-12 03:31:10,719 [INFO] Последняя карточка на этой странице: {'page': 109, 'title': '2,616. Vessel (2012)', 'link': 'https://www.metacritic.com/game/vessel-2012/'}
+2025-11-12 03:31:19,968 [INFO] Последняя карточка на этой странице: {'page': 110, 'title': '2,640. The Walking Dead: Season Two Episode 2 - A House Divided', 'link': 'https://www.metacritic.com/game/the-walking-dead-season-two-episode-two/'}
+2025-11-12 03:31:26,943 [INFO] Последняя карточка на этой странице: {'page': 111, 'title': '2,664. Firewatch', 'link': 'https://www.metacritic.com/game/firewatch/'}
+2025-11-12 03:31:34,012 [INFO] Последняя карточка на этой странице: {'page': 112, 'title': '2,688. Sumerian Six', 'link': 'https://www.metacritic.com/game/sumerian-six/'}
+2025-11-12 03:31:42,034 [INFO] Последняя карточка на этой странице: {'page': 113, 'title': '2,712. Earth Defense Force: World Brothers 2', 'link': 'https://www.metacritic.com/game/earth-defense-force-world-brothers-2/'}
+2025-11-12 03:31:48,110 [INFO] Последняя карточка на этой странице: {'page': 114, 'title': '2,736. MLB 14: The Show', 'link': 'https://www.metacritic.com/game/mlb-14-the-show/'}
+2025-11-12 03:31:55,885 [INFO] Последняя карточка на этой странице: {'page': 115, 'title': '2,760. Flanker 2.0', 'link': 'https://www.metacritic.com/game/flanker-2-0/'}
+2025-11-12 03:32:01,101 [INFO] Последняя карточка на этой странице: {'page': 116, 'title': '2,784. Monster Hunter Stories 2: Wings of Ruin', 'link': 'https://www.metacritic.com/game/monster-hunter-stories-2-wings-of-ruin/'}
+2025-11-12 03:32:06,978 [INFO] Последняя карточка на этой странице: {'page': 117, 'title': '2,808. Mass Effect 2: Overlord', 'link': 'https://www.metacritic.com/game/mass-effect-2-overlord/'}
+2025-11-12 03:32:14,615 [INFO] Последняя карточка на этой странице: {'page': 118, 'title': '2,832.', 'link': 'https://www.metacritic.com/game/motorsport-manager/'}
+2025-11-12 03:32:20,004 [INFO] Последняя карточка на этой странице: {'page': 119, 'title': '2,856. Great God Grove', 'link': 'https://www.metacritic.com/game/great-god-grove/'}
+2025-11-12 03:32:28,087 [INFO] Последняя карточка на этой странице: {'page': 120, 'title': '2,880. Halo Wars: Definitive Edition', 'link': 'https://www.metacritic.com/game/halo-wars-definitive-edition/'}
+2025-11-12 03:32:35,332 [INFO] Последняя карточка на этой странице: {'page': 121, 'title': '2,904.', 'link': 'https://www.metacritic.com/game/affordable-space-adventures/'}
+2025-11-12 03:32:42,896 [INFO] Последняя карточка на этой странице: {'page': 122, 'title': '2,928. Buzz! Quiz World', 'link': 'https://www.metacritic.com/game/buzz-quiz-world/'}
+2025-11-12 03:32:48,594 [INFO] Последняя карточка на этой странице: {'page': 123, 'title': '2,952. Youropa', 'link': 'https://www.metacritic.com/game/youropa/'}
+2025-11-12 03:32:53,022 [INFO] Последняя карточка на этой странице: {'page': 124, 'title': '2,976. Super Time Force', 'link': 'https://www.metacritic.com/game/super-t-i-m-e-force/'}
+2025-11-12 03:33:01,811 [INFO] Последняя карточка на этой странице: {'page': 125, 'title': '3,000. Slender Threads', 'link': 'https://www.metacritic.com/game/slender-threads/'}
+2025-11-12 03:33:07,352 [INFO] Последняя карточка на этой странице: {'page': 126, 'title': '3,024.', 'link': 'https://www.metacritic.com/game/uncharted-golden-abyss/'}
+2025-11-12 03:33:12,812 [INFO] Последняя карточка на этой странице: {'page': 127, 'title': "3,048. The Excavation of Hob's Barrow", 'link': 'https://www.metacritic.com/game/the-excavation-of-hobs-barrow/'}
+2025-11-12 03:33:18,507 [INFO] Последняя карточка на этой странице: {'page': 128, 'title': '3,072.', 'link': 'https://www.metacritic.com/game/wanderstop/'}
+2025-11-12 03:33:24,617 [INFO] Последняя карточка на этой странице: {'page': 129, 'title': '3,096. Tiger Woods PGA Tour 07', 'link': 'https://www.metacritic.com/game/tiger-woods-pga-tour-07/'}
+2025-11-12 03:33:30,849 [INFO] Последняя карточка на этой странице: {'page': 130, 'title': '3,120. Ground Control II: Operation Exodus', 'link': 'https://www.metacritic.com/game/ground-control-ii-operation-exodus/'}
+2025-11-12 03:33:36,008 [INFO] Последняя карточка на этой странице: {'page': 131, 'title': '3,144. Moving Out 2', 'link': 'https://www.metacritic.com/game/moving-out-2/'}
+2025-11-12 03:33:49,091 [INFO] Последняя карточка на этой странице: {'page': 132, 'title': '3,168. Wii Fit Plus', 'link': 'https://www.metacritic.com/game/wii-fit-plus/'}
+2025-11-12 03:33:56,671 [INFO] Последняя карточка на этой странице: {'page': 133, 'title': '3,192. Gran Turismo 5 Prologue', 'link': 'https://www.metacritic.com/game/gran-turismo-5-prologue/'}
+2025-11-12 03:34:01,296 [INFO] Последняя карточка на этой странице: {'page': 134, 'title': '3,216. EA Sports Active More Workouts', 'link': 'https://www.metacritic.com/game/ea-sports-active-more-workouts/'}
+2025-11-12 03:34:08,979 [INFO] Последняя карточка на этой странице: {'page': 135, 'title': '3,240. Ghost 1.0', 'link': 'https://www.metacritic.com/game/ghost-10/'}
+2025-11-12 03:34:17,016 [INFO] Последняя карточка на этой странице: {'page': 136, 'title': '3,264. Blossom Tales: The Sleeping King', 'link': 'https://www.metacritic.com/game/blossom-tales-the-sleeping-king/'}
+2025-11-12 03:34:22,830 [INFO] Последняя карточка на этой странице: {'page': 137, 'title': '3,288.', 'link': 'https://www.metacritic.com/game/wasteland-2-directors-cut/'}
+2025-11-12 03:34:29,417 [INFO] Последняя карточка на этой странице: {'page': 138, 'title': '3,312. Mario Party Superstars', 'link': 'https://www.metacritic.com/game/mario-party-superstars/'}
+2025-11-12 03:34:36,488 [INFO] Последняя карточка на этой странице: {'page': 139, 'title': '3,336.', 'link': 'https://www.metacritic.com/game/beaterator/'}
+2025-11-12 03:34:41,233 [INFO] Последняя карточка на этой странице: {'page': 140, 'title': '3,360. Geometry Wars: Galaxies', 'link': 'https://www.metacritic.com/game/geometry-wars-galaxies/'}
+2025-11-12 03:34:47,021 [INFO] Последняя карточка на этой странице: {'page': 141, 'title': '3,384. BioShock Infinite: Burial at Sea - Episode Two', 'link': 'https://www.metacritic.com/game/bioshock-infinite-burial-at-sea-episode-two/'}
+2025-11-12 03:34:56,412 [INFO] Последняя карточка на этой странице: {'page': 142, 'title': '3,408. The Sims 4: Snowy Escape', 'link': 'https://www.metacritic.com/game/the-sims-4-snowy-escape/'}
+2025-11-12 03:35:05,357 [INFO] Последняя карточка на этой странице: {'page': 143, 'title': '3,432.', 'link': 'https://www.metacritic.com/game/judgment/'}
+2025-11-12 03:35:14,544 [INFO] Последняя карточка на этой странице: {'page': 144, 'title': '3,456. Firewall Zero Hour', 'link': 'https://www.metacritic.com/game/firewall-zero-hour/'}
+2025-11-12 03:35:21,849 [INFO] Последняя карточка на этой странице: {'page': 145, 'title': '3,480. Brothers: A Tale of Two Sons Remake', 'link': 'https://www.metacritic.com/game/brothers-a-tale-of-two-sons-remake/'}
+2025-11-12 03:35:30,177 [INFO] Последняя карточка на этой странице: {'page': 146, 'title': '3,504.', 'link': 'https://www.metacritic.com/game/railgrade/'}
+2025-11-12 03:35:35,344 [INFO] Последняя карточка на этой странице: {'page': 147, 'title': '3,528. Mega Man Legacy Collection + Mega Man Legacy Collection 2', 'link': 'https://www.metacritic.com/game/mega-man-legacy-collection-plus-mega-man-legacy/'}
+2025-11-12 03:35:40,519 [INFO] Последняя карточка на этой странице: {'page': 148, 'title': "3,552. Wilson's Heart", 'link': 'https://www.metacritic.com/game/wilsons-heart/'}
+2025-11-12 03:35:46,596 [INFO] Последняя карточка на этой странице: {'page': 149, 'title': '3,576.', 'link': 'https://www.metacritic.com/game/subsurface-circular/'}
+2025-11-12 03:35:55,055 [INFO] Последняя карточка на этой странице: {'page': 150, 'title': '3,600. Until Dawn (2015)', 'link': 'https://www.metacritic.com/game/until-dawn-2015/'}
+2025-11-12 03:36:04,580 [INFO] Последняя карточка на этой странице: {'page': 151, 'title': '3,624. Dead Rising 2', 'link': 'https://www.metacritic.com/game/dead-rising-2/'}
+2025-11-12 03:36:10,795 [INFO] Последняя карточка на этой странице: {'page': 152, 'title': '3,648. Shin Megami Tensei: Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon', 'link': 'https://www.metacritic.com/game/shin-megami-tensei-devil-summoner-2-raidou-kuzun/'}
+2025-11-12 03:36:17,452 [INFO] Последняя карточка на этой странице: {'page': 153, 'title': '3,672.', 'link': 'https://www.metacritic.com/game/aquaaqua/'}
+2025-11-12 03:36:23,297 [INFO] Последняя карточка на этой странице: {'page': 154, 'title': '3,696. Sam & Max Episode 203: Night of the Raving Dead', 'link': 'https://www.metacritic.com/game/sam-and-max-episode-203-night-of-the-raving-dea/'}
+2025-11-12 03:36:32,782 [INFO] Последняя карточка на этой странице: {'page': 155, 'title': '3,720. Hasbro Family Game Night: Scrabble', 'link': 'https://www.metacritic.com/game/hasbro-family-game-night-scrabble/'}
+2025-11-12 03:36:37,879 [INFO] Последняя карточка на этой странице: {'page': 156, 'title': '3,744.', 'link': 'https://www.metacritic.com/game/ragnarock/'}
+2025-11-12 03:36:46,864 [INFO] Последняя карточка на этой странице: {'page': 157, 'title': '3,768. Tales From The Borderlands: Episode 4 - Escape Plan Bravo', 'link': 'https://www.metacritic.com/game/tales-from-the-borderlands-episode-4-escape-plan/'}
+2025-11-12 03:36:51,931 [INFO] Последняя карточка на этой странице: {'page': 158, 'title': '3,792.', 'link': 'https://www.metacritic.com/game/romancing-saga-2-revenge-of-the-seven/'}
+2025-11-12 03:36:57,872 [INFO] Последняя карточка на этой странице: {'page': 159, 'title': '3,816. Super Dodge Ball Advance', 'link': 'https://www.metacritic.com/game/super-dodge-ball-advance/'}
+2025-11-12 03:37:04,794 [INFO] Последняя карточка на этой странице: {'page': 160, 'title': '3,840. FIFA 20', 'link': 'https://www.metacritic.com/game/fifa-20/'}
+2025-11-12 03:37:14,293 [INFO] Последняя карточка на этой странице: {'page': 161, 'title': '3,864. Puyo Puyo Tsuu', 'link': 'https://www.metacritic.com/game/puyo-puyo-tsuu/'}
+2025-11-12 03:37:22,228 [INFO] Последняя карточка на этой странице: {'page': 162, 'title': '3,888. World of Warcraft: Battle for Azeroth', 'link': 'https://www.metacritic.com/game/world-of-warcraft-battle-for-azeroth/'}
+2025-11-12 03:37:29,312 [INFO] Последняя карточка на этой странице: {'page': 163, 'title': '3,912. The Knight Witch', 'link': 'https://www.metacritic.com/game/the-knight-witch/'}
+2025-11-12 03:37:43,514 [INFO] Последняя карточка на этой странице: {'page': 164, 'title': '3,936. The First Berserker: Khazan', 'link': 'https://www.metacritic.com/game/the-first-berserker-khazan/'}
+2025-11-12 03:37:48,179 [INFO] Последняя карточка на этой странице: {'page': 165, 'title': '3,960. AI: The Somnium Files', 'link': 'https://www.metacritic.com/game/ai-the-somnium-files/'}
+2025-11-12 03:38:42,500 [INFO] Последняя карточка на этой странице: {'page': 166, 'title': '3,984. River City Girls 2', 'link': 'https://www.metacritic.com/game/river-city-girls-2/'}
+2025-11-12 03:38:49,462 [INFO] Последняя карточка на этой странице: {'page': 167, 'title': '4,008.', 'link': 'https://www.metacritic.com/game/neverwinter-nights-shadows-of-undrentide/'}
+2025-11-12 03:39:18,595 [INFO] Последняя карточка на этой странице: {'page': 167, 'title': '4,008.', 'link': 'https://www.metacritic.com/game/neverwinter-nights-shadows-of-undrentide/'}
+2025-11-12 03:39:26,227 [INFO] Последняя карточка на этой странице: {'page': 169, 'title': "4,056. Super Ghouls 'n Ghosts", 'link': 'https://www.metacritic.com/game/super-ghouls-n-ghosts/'}
+2025-11-12 03:39:33,631 [INFO] Последняя карточка на этой странице: {'page': 170, 'title': '4,080. NBA 2K23', 'link': 'https://www.metacritic.com/game/nba-2k23/'}
+2025-11-12 03:39:44,180 [INFO] Последняя карточка на этой странице: {'page': 171, 'title': '4,104. The Procession to Calvary', 'link': 'https://www.metacritic.com/game/the-procession-to-calvary/'}
+2025-11-12 03:39:50,711 [INFO] Последняя карточка на этой странице: {'page': 172, 'title': '4,128. Chaos on Deponia', 'link': 'https://www.metacritic.com/game/chaos-on-deponia/'}
+2025-11-12 03:39:56,588 [INFO] Последняя карточка на этой странице: {'page': 173, 'title': '4,152. Kingdom Under Fire: Heroes', 'link': 'https://www.metacritic.com/game/kingdom-under-fire-heroes/'}
+2025-11-12 03:40:06,103 [INFO] Последняя карточка на этой странице: {'page': 174, 'title': '4,176. Shinobi (1987)', 'link': 'https://www.metacritic.com/game/shinobi-1987/'}
+2025-11-12 03:40:11,281 [INFO] Последняя карточка на этой странице: {'page': 175, 'title': '4,200. Puzzle Quest: The Legend Returns', 'link': 'https://www.metacritic.com/game/puzzle-quest-the-legend-returns/'}
+2025-11-12 03:40:45,321 [INFO] Последняя карточка на этой странице: {'page': 175, 'title': '4,200. Puzzle Quest: The Legend Returns', 'link': 'https://www.metacritic.com/game/puzzle-quest-the-legend-returns/'}
+2025-11-12 03:40:51,643 [INFO] Последняя карточка на этой странице: {'page': 177, 'title': '4,248. Atomik: RunGunJumpGun', 'link': 'https://www.metacritic.com/game/atomik-rungunjumpgun/'}
+2025-11-12 03:40:57,198 [INFO] Последняя карточка на этой странице: {'page': 178, 'title': '4,272. Dragon Ball: Origins', 'link': 'https://www.metacritic.com/game/dragon-ball-origins/'}
+2025-11-12 03:41:46,932 [INFO] Последняя карточка на этой странице: {'page': 178, 'title': '4,272. Dragon Ball: Origins', 'link': 'https://www.metacritic.com/game/dragon-ball-origins/'}
+2025-11-12 03:41:56,524 [INFO] Последняя карточка на этой странице: {'page': 180, 'title': '4,320. Ibb & Obb', 'link': 'https://www.metacritic.com/game/ibb-and-obb/'}
+2025-11-12 03:42:06,392 [INFO] Последняя карточка на этой странице: {'page': 181, 'title': '4,344.', 'link': 'https://www.metacritic.com/game/eastshade/'}
+2025-11-12 03:42:14,776 [INFO] Последняя карточка на этой странице: {'page': 182, 'title': '4,368.', 'link': 'https://www.metacritic.com/game/everybodys-gone-to-the-rapture/'}
+2025-11-12 03:42:21,906 [INFO] Последняя карточка на этой странице: {'page': 183, 'title': '4,392.', 'link': 'https://www.metacritic.com/game/wingspan/'}
+2025-11-12 03:42:29,015 [INFO] Последняя карточка на этой странице: {'page': 184, 'title': '4,416. Graceful Explosion Machine', 'link': 'https://www.metacritic.com/game/graceful-explosion-machine/'}
+2025-11-12 03:42:35,291 [INFO] Последняя карточка на этой странице: {'page': 185, 'title': '4,440. Dance Dance Revolution Extreme', 'link': 'https://www.metacritic.com/game/dance-dance-revolution-extreme/'}
+2025-11-12 03:42:41,318 [INFO] Последняя карточка на этой странице: {'page': 186, 'title': '4,464. Lover Pretend', 'link': 'https://www.metacritic.com/game/lover-pretend/'}
+2025-11-12 03:42:45,865 [INFO] Последняя карточка на этой странице: {'page': 187, 'title': '4,488.', 'link': 'https://www.metacritic.com/game/soulcalibur-v/'}
+2025-11-12 03:42:50,803 [INFO] Последняя карточка на этой странице: {'page': 188, 'title': '4,512.', 'link': 'https://www.metacritic.com/game/flashback-25th-anniversary/'}
+2025-11-12 03:42:55,405 [INFO] Последняя карточка на этой странице: {'page': 189, 'title': '4,536. Synapse', 'link': 'https://www.metacritic.com/game/synapse/'}
+2025-11-12 03:43:00,587 [INFO] Последняя карточка на этой странице: {'page': 190, 'title': '4,560. True Crime: Streets of LA', 'link': 'https://www.metacritic.com/game/true-crime-streets-of-la/'}
+2025-11-12 03:43:08,661 [INFO] Последняя карточка на этой странице: {'page': 191, 'title': '4,584. Wik & the Fable of Souls', 'link': 'https://www.metacritic.com/game/wik-and-the-fable-of-souls/'}
+2025-11-12 03:43:14,113 [INFO] Последняя карточка на этой странице: {'page': 192, 'title': '4,608. Orwell', 'link': 'https://www.metacritic.com/game/orwell/'}
+2025-11-12 03:43:22,339 [INFO] Последняя карточка на этой странице: {'page': 193, 'title': '4,632. Magic Duels: Origins', 'link': 'https://www.metacritic.com/game/magic-duels-origins/'}
+2025-11-12 03:43:28,692 [INFO] Последняя карточка на этой странице: {'page': 194, 'title': '4,656. Olija', 'link': 'https://www.metacritic.com/game/olija/'}
+2025-11-12 03:43:34,059 [INFO] Последняя карточка на этой странице: {'page': 195, 'title': '4,680.', 'link': 'https://www.metacritic.com/game/stranglehold/'}
+2025-11-12 03:43:43,289 [INFO] Последняя карточка на этой странице: {'page': 196, 'title': '4,704. GT Advance 2: Rally Racing', 'link': 'https://www.metacritic.com/game/gt-advance-2-rally-racing/'}
+2025-11-12 03:43:54,307 [INFO] Последняя карточка на этой странице: {'page': 197, 'title': '4,728. Soul Sacrifice', 'link': 'https://www.metacritic.com/game/soul-sacrifice/'}
+2025-11-12 03:43:59,914 [INFO] Последняя карточка на этой странице: {'page': 198, 'title': '4,752. Metro 2033', 'link': 'https://www.metacritic.com/game/metro-2033/'}
+2025-11-12 03:44:04,962 [INFO] Последняя карточка на этой странице: {'page': 199, 'title': '4,776. Crusader Kings II: Sons of Abraham', 'link': 'https://www.metacritic.com/game/crusader-kings-ii-sons-of-abraham/'}
+2025-11-12 03:44:14,069 [INFO] Последняя карточка на этой странице: {'page': 200, 'title': '4,800. Outlaw Volleyball', 'link': 'https://www.metacritic.com/game/outlaw-volleyball/'}
+2025-11-12 03:44:19,884 [INFO] Последняя карточка на этой странице: {'page': 201, 'title': '4,824.', 'link': 'https://www.metacritic.com/game/remothered-tormented-fathers/'}
+2025-11-12 03:44:27,113 [INFO] Последняя карточка на этой странице: {'page': 202, 'title': "4,848. Disney's Kim Possible 2: Drakken's Demise", 'link': 'https://www.metacritic.com/game/disneys-kim-possible-2-drakkens-demise/'}
+2025-11-12 03:44:57,863 [INFO] Последняя карточка на этой странице: {'page': 203, 'title': '4,872. The Legend of Heroes: Trails of Cold Steel', 'link': 'https://www.metacritic.com/game/the-legend-of-heroes-trails-of-cold-steel/'}
+2025-11-12 03:45:03,634 [INFO] Последняя карточка на этой странице: {'page': 204, 'title': '4,896. ESPN MLS ExtraTime', 'link': 'https://www.metacritic.com/game/espn-mls-extratime/'}
+2025-11-12 03:45:10,810 [INFO] Последняя карточка на этой странице: {'page': 205, 'title': '4,920. War Thunder', 'link': 'https://www.metacritic.com/game/war-thunder/'}
+2025-11-12 03:45:56,408 [INFO] Последняя карточка на этой странице: {'page': 206, 'title': '4,944. Patrician II: Quest for Power', 'link': 'https://www.metacritic.com/game/patrician-ii-quest-for-power/'}
+2025-11-12 03:46:08,218 [INFO] Последняя карточка на этой странице: {'page': 207, 'title': '4,968. Forza Horizon: Rally Expansion Pack', 'link': 'https://www.metacritic.com/game/forza-horizon-rally-expansion-pack/'}
+2025-11-12 03:46:15,487 [INFO] Последняя карточка на этой странице: {'page': 208, 'title': '4,992. Tomb Raider III: Adventures of Lara Croft', 'link': 'https://www.metacritic.com/game/tomb-raider-iii-adventures-of-lara-croft/'}
+2025-11-12 03:46:26,732 [INFO] Последняя карточка на этой странице: {'page': 209, 'title': '5,016. Sins of a Solar Empire II', 'link': 'https://www.metacritic.com/game/sins-of-a-solar-empire-ii/'}
+2025-11-12 03:46:39,212 [INFO] Последняя карточка на этой странице: {'page': 210, 'title': '5,040. Devil May Cry 4: Special Edition', 'link': 'https://www.metacritic.com/game/devil-may-cry-4-special-edition/'}
+2025-11-12 03:46:46,119 [INFO] Последняя карточка на этой странице: {'page': 211, 'title': '5,064. Peggle Nights (2008)', 'link': 'https://www.metacritic.com/game/peggle-nights-2008/'}
+2025-11-12 03:46:55,717 [INFO] Последняя карточка на этой странице: {'page': 212, 'title': '5,088. Super Chariot', 'link': 'https://www.metacritic.com/game/super-chariot/'}
+2025-11-12 03:47:08,138 [INFO] Последняя карточка на этой странице: {'page': 213, 'title': "5,112. The Beginner's Guide", 'link': 'https://www.metacritic.com/game/the-beginners-guide/'}
+2025-11-12 03:47:20,052 [INFO] Последняя карточка на этой странице: {'page': 214, 'title': '5,136. Battlefield 1: They Shall Not Pass', 'link': 'https://www.metacritic.com/game/battlefield-1-they-shall-not-pass/'}
+2025-11-12 03:47:27,526 [INFO] Последняя карточка на этой странице: {'page': 215, 'title': '5,160. Sushi Striker: The Way of Sushido', 'link': 'https://www.metacritic.com/game/sushi-striker-the-way-of-sushido/'}
+2025-11-12 03:47:42,942 [INFO] Последняя карточка на этой странице: {'page': 216, 'title': '5,184. Dr. Mario Express', 'link': 'https://www.metacritic.com/game/dr-mario-express/'}
+2025-11-12 03:47:51,663 [INFO] Последняя карточка на этой странице: {'page': 217, 'title': '5,208. Bit.Trip Runner', 'link': 'https://www.metacritic.com/game/bit-trip-runner/'}
+2025-11-12 03:47:57,910 [INFO] Последняя карточка на этой странице: {'page': 218, 'title': '5,232. Star Fox Command', 'link': 'https://www.metacritic.com/game/star-fox-command/'}
+2025-11-12 03:48:04,989 [INFO] Последняя карточка на этой странице: {'page': 219, 'title': '5,256.', 'link': 'https://www.metacritic.com/game/borderlands-game-of-the-year-edition/'}
+2025-11-12 03:48:10,479 [INFO] Последняя карточка на этой странице: {'page': 220, 'title': '5,280. Naruto Shippuden: Ultimate Ninja Storm 2', 'link': 'https://www.metacritic.com/game/naruto-shippuden-ultimate-ninja-storm-2/'}
+2025-11-12 03:48:18,294 [INFO] Последняя карточка на этой странице: {'page': 221, 'title': '5,304. PGA Tour 2K23', 'link': 'https://www.metacritic.com/game/pga-tour-2k23/'}
+2025-11-12 03:48:46,967 [INFO] Последняя карточка на этой странице: {'page': 221, 'title': '5,304. PGA Tour 2K23', 'link': 'https://www.metacritic.com/game/pga-tour-2k23/'}
+2025-11-12 03:49:34,615 [INFO] Последняя карточка на этой странице: {'page': 223, 'title': '5,352. Silent Hill 4: The Room', 'link': 'https://www.metacritic.com/game/silent-hill-4-the-room/'}
+2025-11-12 03:49:42,148 [INFO] Последняя карточка на этой странице: {'page': 224, 'title': '5,376. Peglin', 'link': 'https://www.metacritic.com/game/peglin/'}
+2025-11-12 03:49:49,474 [INFO] Последняя карточка на этой странице: {'page': 225, 'title': "5,400. Who's That Flying?!", 'link': 'https://www.metacritic.com/game/whos-that-flying/'}
+2025-11-12 03:50:20,732 [INFO] Последняя карточка на этой странице: {'page': 225, 'title': "5,400. Who's That Flying?!", 'link': 'https://www.metacritic.com/game/whos-that-flying/'}
+2025-11-12 03:50:28,569 [INFO] Последняя карточка на этой странице: {'page': 227, 'title': '5,448. Outlast 2', 'link': 'https://www.metacritic.com/game/outlast-2/'}
+2025-11-12 03:50:36,639 [INFO] Последняя карточка на этой странице: {'page': 228, 'title': '5,472. The Jackbox Party Pack 7', 'link': 'https://www.metacritic.com/game/the-jackbox-party-pack-7/'}
+2025-11-12 03:51:08,794 [INFO] Последняя карточка на этой странице: {'page': 228, 'title': '5,472. The Jackbox Party Pack 7', 'link': 'https://www.metacritic.com/game/the-jackbox-party-pack-7/'}
+2025-11-12 03:51:21,519 [INFO] Последняя карточка на этой странице: {'page': 230, 'title': '5,520. NBA Live 09', 'link': 'https://www.metacritic.com/game/nba-live-09/'}
+2025-11-12 03:51:35,950 [INFO] Последняя карточка на этой странице: {'page': 231, 'title': '5,544. The Suffering: Ties That Bind', 'link': 'https://www.metacritic.com/game/the-suffering-ties-that-bind/'}
+2025-11-12 03:51:49,371 [INFO] Последняя карточка на этой странице: {'page': 232, 'title': '5,568. Bomber Crew', 'link': 'https://www.metacritic.com/game/bomber-crew/'}
+2025-11-12 03:52:26,008 [INFO] Последняя карточка на этой странице: {'page': 233, 'title': '5,592. Labyrinth City: Pierre the Maze Detective', 'link': 'https://www.metacritic.com/game/labyrinth-city-pierre-the-maze-detective/'}
+2025-11-12 03:52:41,908 [INFO] Последняя карточка на этой странице: {'page': 234, 'title': '5,616. Field of Glory II: Medieval', 'link': 'https://www.metacritic.com/game/field-of-glory-ii-medieval/'}
+2025-11-12 03:52:53,371 [INFO] Последняя карточка на этой странице: {'page': 235, 'title': '5,640. Legacy of Kain: Defiance', 'link': 'https://www.metacritic.com/game/legacy-of-kain-defiance/'}
+2025-11-12 03:53:03,115 [INFO] Последняя карточка на этой странице: {'page': 236, 'title': '5,664. Cloud Gardens', 'link': 'https://www.metacritic.com/game/cloud-gardens/'}
+2025-11-12 03:53:11,411 [INFO] Последняя карточка на этой странице: {'page': 237, 'title': '5,688. Art Academy', 'link': 'https://www.metacritic.com/game/art-academy/'}
+2025-11-12 03:53:43,340 [INFO] Последняя карточка на этой странице: {'page': 237, 'title': '5,688. Art Academy', 'link': 'https://www.metacritic.com/game/art-academy/'}
+2025-11-12 03:54:22,129 [INFO] Последняя карточка на этой странице: {'page': 237, 'title': '5,688. Art Academy', 'link': 'https://www.metacritic.com/game/art-academy/'}
+2025-11-12 03:54:28,160 [INFO] Последняя карточка на этой странице: {'page': 240, 'title': "5,760. Archer Maclean's Mercury", 'link': 'https://www.metacritic.com/game/archer-macleans-mercury/'}
+2025-11-12 03:54:39,912 [INFO] Последняя карточка на этой странице: {'page': 241, 'title': '5,784. Afterparty', 'link': 'https://www.metacritic.com/game/afterparty/'}
+2025-11-12 03:54:48,233 [INFO] Последняя карточка на этой странице: {'page': 242, 'title': '5,808.', 'link': 'https://www.metacritic.com/game/yomawari-night-alone/'}
+2025-11-12 03:54:53,769 [INFO] Последняя карточка на этой странице: {'page': 243, 'title': '5,832. The Next Big Thing', 'link': 'https://www.metacritic.com/game/the-next-big-thing/'}
+2025-11-12 03:55:03,253 [INFO] Последняя карточка на этой странице: {'page': 244, 'title': '5,856. Dragon Ball: Advanced Adventure', 'link': 'https://www.metacritic.com/game/dragon-ball-advanced-adventure/'}
+2025-11-12 03:55:12,718 [INFO] Последняя карточка на этой странице: {'page': 245, 'title': "5,880. Marvel's Spider-Man: Silver Lining", 'link': 'https://www.metacritic.com/game/marvels-spider-man-silver-lining/'}
+2025-11-12 03:55:18,339 [INFO] Последняя карточка на этой странице: {'page': 246, 'title': '5,904. Hydro Thunder Hurricane', 'link': 'https://www.metacritic.com/game/hydro-thunder-hurricane/'}
+2025-11-12 03:55:24,210 [INFO] Последняя карточка на этой странице: {'page': 247, 'title': '5,928. FragPunk', 'link': 'https://www.metacritic.com/game/fragpunk/'}
+2025-11-12 03:55:30,198 [INFO] Последняя карточка на этой странице: {'page': 248, 'title': '5,952. ClaDun x2', 'link': 'https://www.metacritic.com/game/cladun-x2/'}
+2025-11-12 03:55:35,092 [INFO] Последняя карточка на этой странице: {'page': 249, 'title': '5,976. Hellmut: The Badass from Hell', 'link': 'https://www.metacritic.com/game/hellmut-the-badass-from-hell/'}
+2025-11-12 03:55:43,776 [INFO] Последняя карточка на этой странице: {'page': 250, 'title': '6,000. Tetris Axis', 'link': 'https://www.metacritic.com/game/tetris-axis/'}
+2025-11-12 03:55:56,361 [INFO] Последняя карточка на этой странице: {'page': 251, 'title': '6,024. Grim Legends: The Forsaken Bride', 'link': 'https://www.metacritic.com/game/grim-legends-the-forsaken-bride/'}
+2025-11-12 03:56:01,891 [INFO] Последняя карточка на этой странице: {'page': 252, 'title': '6,048. American Civil War: Take Command - Second Manassas', 'link': 'https://www.metacritic.com/game/american-civil-war-take-command-second-manassas/'}
+2025-11-12 03:56:09,838 [INFO] Последняя карточка на этой странице: {'page': 253, 'title': '6,072. NCAA March Madness 2003', 'link': 'https://www.metacritic.com/game/ncaa-march-madness-2003/'}
+2025-11-12 03:56:17,773 [INFO] Последняя карточка на этой странице: {'page': 254, 'title': '6,096.', 'link': 'https://www.metacritic.com/game/nobunagas-ambition-sphere-of-influence-ascension/'}
+2025-11-12 03:56:27,236 [INFO] Последняя карточка на этой странице: {'page': 255, 'title': '6,120. Galaga Legions DX', 'link': 'https://www.metacritic.com/game/galaga-legions-dx/'}
+2025-11-12 03:56:39,377 [INFO] Последняя карточка на этой странице: {'page': 256, 'title': '6,144. Super Stardust Ultra', 'link': 'https://www.metacritic.com/game/super-stardust-ultra/'}
+2025-11-12 03:56:46,397 [INFO] Последняя карточка на этой странице: {'page': 257, 'title': '6,168. Dawn of Man', 'link': 'https://www.metacritic.com/game/dawn-of-man/'}
+2025-11-12 03:56:55,142 [INFO] Последняя карточка на этой странице: {'page': 258, 'title': '6,192. God Wars: Future Past', 'link': 'https://www.metacritic.com/game/god-wars-future-past/'}
+2025-11-12 03:57:00,486 [INFO] Последняя карточка на этой странице: {'page': 259, 'title': '6,216.', 'link': 'https://www.metacritic.com/game/mordheim-city-of-the-damned/'}
+2025-11-12 03:57:09,983 [INFO] Последняя карточка на этой странице: {'page': 260, 'title': '6,240.', 'link': 'https://www.metacritic.com/game/wuchang-fallen-feathers/'}
+2025-11-12 03:57:19,090 [INFO] Последняя карточка на этой странице: {'page': 261, 'title': '6,264. Ooblets', 'link': 'https://www.metacritic.com/game/ooblets/'}
+2025-11-12 03:57:32,135 [INFO] Последняя карточка на этой странице: {'page': 262, 'title': '6,288.', 'link': 'https://www.metacritic.com/game/hyperparasite/'}
+2025-11-12 03:57:38,161 [INFO] Последняя карточка на этой странице: {'page': 263, 'title': '6,312. Potion Permit', 'link': 'https://www.metacritic.com/game/potion-permit/'}
+2025-11-12 03:57:46,845 [INFO] Последняя карточка на этой странице: {'page': 264, 'title': '6,336. Lost Records: Bloom & Rage', 'link': 'https://www.metacritic.com/game/lost-records-bloom-and-rage/'}
+2025-11-12 03:57:53,218 [INFO] Последняя карточка на этой странице: {'page': 265, 'title': '6,360. Project Warlock', 'link': 'https://www.metacritic.com/game/project-warlock/'}
+2025-11-12 03:58:02,349 [INFO] Последняя карточка на этой странице: {'page': 266, 'title': '6,384. The Sims 2: FreeTime', 'link': 'https://www.metacritic.com/game/the-sims-2-freetime/'}
+2025-11-12 03:58:08,415 [INFO] Последняя карточка на этой странице: {'page': 267, 'title': '6,408. Mirage: Arcane Warfare', 'link': 'https://www.metacritic.com/game/mirage-arcane-warfare/'}
+2025-11-12 03:58:13,955 [INFO] Последняя карточка на этой странице: {'page': 268, 'title': '6,432. One Piece Odyssey', 'link': 'https://www.metacritic.com/game/one-piece-odyssey/'}
+2025-11-12 03:58:25,508 [INFO] Последняя карточка на этой странице: {'page': 269, 'title': '6,456. Red Dog: Superior Firepower', 'link': 'https://www.metacritic.com/game/red-dog-superior-firepower/'}
+2025-11-12 03:58:32,331 [INFO] Последняя карточка на этой странице: {'page': 270, 'title': '6,480. The Saboteur', 'link': 'https://www.metacritic.com/game/the-saboteur/'}
+2025-11-12 03:58:39,564 [INFO] Последняя карточка на этой странице: {'page': 271, 'title': '6,504.', 'link': 'https://www.metacritic.com/game/assassins-creed-iii-the-infamy/'}
+2025-11-12 03:58:50,491 [INFO] Последняя карточка на этой странице: {'page': 272, 'title': '6,528. Call of Duty: Vanguard', 'link': 'https://www.metacritic.com/game/call-of-duty-vanguard/'}
+2025-11-12 03:58:55,618 [INFO] Последняя карточка на этой странице: {'page': 273, 'title': '6,552. Viewtiful Joe: Double Trouble!', 'link': 'https://www.metacritic.com/game/viewtiful-joe-double-trouble/'}
+2025-11-12 03:59:00,617 [INFO] Последняя карточка на этой странице: {'page': 274, 'title': '6,576. Dead to Rights', 'link': 'https://www.metacritic.com/game/dead-to-rights/'}
+2025-11-12 03:59:09,071 [INFO] Последняя карточка на этой странице: {'page': 275, 'title': '6,600. Cogs', 'link': 'https://www.metacritic.com/game/cogs/'}
+2025-11-12 03:59:13,759 [INFO] Последняя карточка на этой странице: {'page': 276, 'title': '6,624. The Book of Unwritten Tales: Critter Chronicles', 'link': 'https://www.metacritic.com/game/the-book-of-unwritten-tales-critter-chronicles/'}
+2025-11-12 03:59:49,849 [INFO] Последняя карточка на этой странице: {'page': 277, 'title': '6,648. #BLUD', 'link': 'https://www.metacritic.com/game/blud/'}
+2025-11-12 03:59:55,657 [INFO] Последняя карточка на этой странице: {'page': 278, 'title': '6,672. Defender (2002)', 'link': 'https://www.metacritic.com/game/defender-2002/'}
+2025-11-12 04:00:04,817 [INFO] Последняя карточка на этой странице: {'page': 279, 'title': '6,696. Strange Brigade', 'link': 'https://www.metacritic.com/game/strange-brigade/'}
+2025-11-12 04:00:12,726 [INFO] Последняя карточка на этой странице: {'page': 280, 'title': '6,720. RedCard 20-03', 'link': 'https://www.metacritic.com/game/redcard-20-03/'}
+2025-11-12 04:00:18,500 [INFO] Последняя карточка на этой странице: {'page': 281, 'title': '6,744. Monster Prom', 'link': 'https://www.metacritic.com/game/monster-prom/'}
+2025-11-12 04:00:25,039 [INFO] Последняя карточка на этой странице: {'page': 282, 'title': '6,768.', 'link': 'https://www.metacritic.com/game/gunvalkyrie/'}
+2025-11-12 04:00:35,120 [INFO] Последняя карточка на этой странице: {'page': 283, 'title': '6,792.', 'link': 'https://www.metacritic.com/game/chocobos-mystery-dungeon-every-buddy/'}
+2025-11-12 04:00:40,573 [INFO] Последняя карточка на этой странице: {'page': 284, 'title': '6,816. FAST - Racing League', 'link': 'https://www.metacritic.com/game/fast-racing-league/'}
+2025-11-12 04:00:47,700 [INFO] Последняя карточка на этой странице: {'page': 285, 'title': '6,840. Blood Bowl: Legendary Edition', 'link': 'https://www.metacritic.com/game/blood-bowl-legendary-edition/'}
+2025-11-12 04:01:05,901 [INFO] Последняя карточка на этой странице: {'page': 286, 'title': '6,864.', 'link': 'https://www.metacritic.com/game/unstoppable-gorg/'}
+2025-11-12 04:01:11,603 [INFO] Последняя карточка на этой странице: {'page': 287, 'title': '6,888. Ninja Gaiden: Master Collection', 'link': 'https://www.metacritic.com/game/ninja-gaiden-master-collection/'}
+2025-11-12 04:01:41,249 [INFO] Последняя карточка на этой странице: {'page': 287, 'title': '6,888. Ninja Gaiden: Master Collection', 'link': 'https://www.metacritic.com/game/ninja-gaiden-master-collection/'}
+2025-11-12 04:01:51,085 [INFO] Последняя карточка на этой странице: {'page': 289, 'title': '6,936.', 'link': 'https://www.metacritic.com/game/planescape-torment-enhanced-edition-icewind-dale/'}
+2025-11-12 04:01:57,658 [INFO] Последняя карточка на этой странице: {'page': 290, 'title': '6,960. Derrick the Deathfin', 'link': 'https://www.metacritic.com/game/derrick-the-deathfin/'}
+2025-11-12 04:02:14,440 [INFO] Последняя карточка на этой странице: {'page': 291, 'title': '6,984.', 'link': 'https://www.metacritic.com/game/mushroom-wars-2/'}
+2025-11-12 04:02:23,449 [INFO] Последняя карточка на этой странице: {'page': 292, 'title': '7,008.', 'link': 'https://www.metacritic.com/game/yomawari-lost-in-the-dark/'}
+2025-11-12 04:02:36,142 [INFO] Последняя карточка на этой странице: {'page': 293, 'title': '7,032. Samurai Shodown II', 'link': 'https://www.metacritic.com/game/samurai-shodown-ii/'}
+2025-11-12 04:02:57,320 [INFO] Последняя карточка на этой странице: {'page': 294, 'title': '7,056. Dragon Ball Z: Budokai Tenkaichi 2', 'link': 'https://www.metacritic.com/game/dragon-ball-z-budokai-tenkaichi-2/'}
+2025-11-12 04:03:05,427 [INFO] Последняя карточка на этой странице: {'page': 295, 'title': '7,080. Onion Assault', 'link': 'https://www.metacritic.com/game/onion-assault/'}
+2025-11-12 04:03:13,571 [INFO] Последняя карточка на этой странице: {'page': 296, 'title': '7,104. Matterfall', 'link': 'https://www.metacritic.com/game/matterfall/'}
+2025-11-12 04:03:23,683 [INFO] Последняя карточка на этой странице: {'page': 297, 'title': '7,128. Battle Train', 'link': 'https://www.metacritic.com/game/battle-train/'}
+2025-11-12 04:03:32,240 [INFO] Последняя карточка на этой странице: {'page': 298, 'title': '7,152. Romance of the Three Kingdoms VII', 'link': 'https://www.metacritic.com/game/romance-of-the-three-kingdoms-vii/'}
+2025-11-12 04:04:02,304 [INFO] Последняя карточка на этой странице: {'page': 298, 'title': '7,152. Romance of the Three Kingdoms VII', 'link': 'https://www.metacritic.com/game/romance-of-the-three-kingdoms-vii/'}
+2025-11-12 04:04:09,245 [INFO] Последняя карточка на этой странице: {'page': 300, 'title': '7,200. Swingerz Golf', 'link': 'https://www.metacritic.com/game/swingerz-golf/'}
+2025-11-12 04:04:20,612 [INFO] Последняя карточка на этой странице: {'page': 301, 'title': '7,224. Rhythm Fighter', 'link': 'https://www.metacritic.com/game/rhythm-fighter/'}
+2025-11-12 04:04:27,737 [INFO] Последняя карточка на этой странице: {'page': 302, 'title': "7,248. Marvel's Guardians of the Galaxy - Episode 1: Tangled Up in Blue", 'link': 'https://www.metacritic.com/game/marvels-guardians-of-the-galaxy-episode-1-tangled/'}
+2025-11-12 04:04:33,458 [INFO] Последняя карточка на этой странице: {'page': 303, 'title': '7,272. Story of Seasons: A Wonderful Life', 'link': 'https://www.metacritic.com/game/story-of-seasons-a-wonderful-life/'}
+2025-11-12 04:04:42,135 [INFO] Последняя карточка на этой странице: {'page': 304, 'title': '7,296. The House of the Dead III', 'link': 'https://www.metacritic.com/game/the-house-of-the-dead-iii/'}
+2025-11-12 04:04:49,744 [INFO] Последняя карточка на этой странице: {'page': 305, 'title': '7,320. Just Dance 2019', 'link': 'https://www.metacritic.com/game/just-dance-2019/'}
+2025-11-12 04:05:00,168 [INFO] Последняя карточка на этой странице: {'page': 306, 'title': '7,344. The Deadly Tower of Monsters', 'link': 'https://www.metacritic.com/game/the-deadly-tower-of-monsters/'}
+2025-11-12 04:05:08,640 [INFO] Последняя карточка на этой странице: {'page': 307, 'title': '7,368. Far Cry 5: Hours of Darkness', 'link': 'https://www.metacritic.com/game/far-cry-5-hours-of-darkness/'}
+2025-11-12 04:05:27,748 [INFO] Последняя карточка на этой странице: {'page': 308, 'title': "7,392. Leisure Suit Larry: Wet Dreams Don't Dry", 'link': 'https://www.metacritic.com/game/leisure-suit-larry-wet-dreams-dont-dry/'}
+2025-11-12 04:05:34,283 [INFO] Последняя карточка на этой странице: {'page': 309, 'title': '7,416. Dark Sector', 'link': 'https://www.metacritic.com/game/dark-sector/'}
+2025-11-12 04:05:43,429 [INFO] Последняя карточка на этой странице: {'page': 310, 'title': "7,440. Layton's Mystery Journey: Katrielle and The Millionaires' Conspiracy", 'link': 'https://www.metacritic.com/game/laytons-mystery-journey-katrielle-and-the/'}
+2025-11-12 04:05:53,083 [INFO] Последняя карточка на этой странице: {'page': 311, 'title': '7,464.', 'link': 'https://www.metacritic.com/game/somerville/'}
+2025-11-12 04:05:59,785 [INFO] Последняя карточка на этой странице: {'page': 312, 'title': '7,488. Young Thor', 'link': 'https://www.metacritic.com/game/young-thor/'}
+2025-11-12 04:06:11,258 [INFO] Последняя карточка на этой странице: {'page': 313, 'title': '7,512. Silent Hunter II', 'link': 'https://www.metacritic.com/game/silent-hunter-ii/'}
+2025-11-12 04:06:16,774 [INFO] Последняя карточка на этой странице: {'page': 314, 'title': "7,536. Alwa's Awakening", 'link': 'https://www.metacritic.com/game/alwas-awakening/'}
+2025-11-12 04:06:24,876 [INFO] Последняя карточка на этой странице: {'page': 315, 'title': '7,560.', 'link': 'https://www.metacritic.com/game/nintendogs-cats-golden-retriever-and-new-frie/'}
+2025-11-12 04:06:33,637 [INFO] Последняя карточка на этой странице: {'page': 316, 'title': '7,584. Asterigos: Curse of the Stars', 'link': 'https://www.metacritic.com/game/asterigos-curse-of-the-stars/'}
+2025-11-12 04:06:43,207 [INFO] Последняя карточка на этой странице: {'page': 317, 'title': '7,608. Call of Duty: Advanced Warfare - Supremacy', 'link': 'https://www.metacritic.com/game/call-of-duty-advanced-warfare-supremacy/'}
+2025-11-12 04:06:50,714 [INFO] Последняя карточка на этой странице: {'page': 318, 'title': '7,632. Minecraft: Story Mode Season Two - Episode 1: Hero in Residence', 'link': 'https://www.metacritic.com/game/minecraft-story-mode-season-two-episode-1-hero-in/'}
+2025-11-12 04:07:02,691 [INFO] Последняя карточка на этой странице: {'page': 319, 'title': '7,656. Combat Command 2: Desert Rats', 'link': 'https://www.metacritic.com/game/combat-command-2-desert-rats/'}
+2025-11-12 04:07:07,972 [INFO] Последняя карточка на этой странице: {'page': 320, 'title': '7,680. State of Emergency', 'link': 'https://www.metacritic.com/game/state-of-emergency/'}
+2025-11-12 04:07:15,217 [INFO] Последняя карточка на этой странице: {'page': 321, 'title': '7,704. Arx Fatalis', 'link': 'https://www.metacritic.com/game/arx-fatalis/'}
+2025-11-12 04:07:20,982 [INFO] Последняя карточка на этой странице: {'page': 322, 'title': '7,728. Warlock: Master of the Arcane', 'link': 'https://www.metacritic.com/game/warlock-master-of-the-arcane/'}
+2025-11-12 04:07:34,633 [INFO] Последняя карточка на этой странице: {'page': 323, 'title': '7,752. Crazy Machines 3', 'link': 'https://www.metacritic.com/game/crazy-machines-3/'}
+2025-11-12 04:07:44,559 [INFO] Последняя карточка на этой странице: {'page': 324, 'title': '7,776. 8-Bit Adventure Anthology: Volume 1', 'link': 'https://www.metacritic.com/game/8-bit-adventure-anthology-volume-1/'}
+2025-11-12 04:07:57,004 [INFO] Последняя карточка на этой странице: {'page': 325, 'title': "7,800. Assassin's Creed Valhalla: Dawn of Ragnarok", 'link': 'https://www.metacritic.com/game/assassins-creed-valhalla-dawn-of-ragnarok/'}
+2025-11-12 04:08:11,963 [INFO] Последняя карточка на этой странице: {'page': 326, 'title': '7,824. Gods Eater Burst', 'link': 'https://www.metacritic.com/game/gods-eater-burst/'}
+2025-11-12 04:08:25,735 [INFO] Последняя карточка на этой странице: {'page': 327, 'title': '7,848. Harry Potter and the Chamber of Secrets', 'link': 'https://www.metacritic.com/game/harry-potter-and-the-chamber-of-secrets/'}
+2025-11-12 04:08:32,308 [INFO] Последняя карточка на этой странице: {'page': 328, 'title': '7,872. Summon Night 6: Lost Borders', 'link': 'https://www.metacritic.com/game/summon-night-6-lost-borders/'}
+2025-11-12 04:08:37,358 [INFO] Последняя карточка на этой странице: {'page': 329, 'title': '7,896. Suzuki TT Superbikes', 'link': 'https://www.metacritic.com/game/suzuki-tt-superbikes/'}
+2025-11-12 04:08:47,847 [INFO] Последняя карточка на этой странице: {'page': 330, 'title': '7,920. Dice Legacy', 'link': 'https://www.metacritic.com/game/dice-legacy/'}
+2025-11-12 04:08:56,994 [INFO] Последняя карточка на этой странице: {'page': 331, 'title': '7,944. Quantum Redshift', 'link': 'https://www.metacritic.com/game/quantum-redshift/'}
+2025-11-12 04:09:04,672 [INFO] Последняя карточка на этой странице: {'page': 332, 'title': '7,968. Global Agenda', 'link': 'https://www.metacritic.com/game/global-agenda/'}
+2025-11-12 04:09:14,119 [INFO] Последняя карточка на этой странице: {'page': 333, 'title': '7,992. Thunder Force V', 'link': 'https://www.metacritic.com/game/thunder-force-v/'}
+2025-11-12 04:09:20,904 [INFO] Последняя карточка на этой странице: {'page': 334, 'title': '8,016. Slave Zero X', 'link': 'https://www.metacritic.com/game/slave-zero-x/'}
+2025-11-12 04:09:36,828 [INFO] Последняя карточка на этой странице: {'page': 335, 'title': '8,040. Photo Dojo', 'link': 'https://www.metacritic.com/game/photo-dojo/'}
+2025-11-12 04:09:57,112 [INFO] Последняя карточка на этой странице: {'page': 336, 'title': '8,064. Turbo Turtle Adventure', 'link': 'https://www.metacritic.com/game/turbo-turtle-adventure/'}
+2025-11-12 04:10:06,593 [INFO] Последняя карточка на этой странице: {'page': 337, 'title': '8,088. No Straight Roads', 'link': 'https://www.metacritic.com/game/no-straight-roads/'}
+2025-11-12 04:10:19,545 [INFO] Последняя карточка на этой странице: {'page': 338, 'title': '8,112. Howl', 'link': 'https://www.metacritic.com/game/howl/'}
+2025-11-12 04:10:26,610 [INFO] Последняя карточка на этой странице: {'page': 339, 'title': '8,136. Howl', 'link': 'https://www.metacritic.com/game/howl/'}
+2025-11-12 04:10:31,880 [INFO] Последняя карточка на этой странице: {'page': 340, 'title': '8,160. Karaoke Revolution Presents: American Idol Encore', 'link': 'https://www.metacritic.com/game/karaoke-revolution-presents-american-idol-encore/'}
+2025-11-12 04:11:12,026 [INFO] Последняя карточка на этой странице: {'page': 341, 'title': '8,184. Anomaly Defenders', 'link': 'https://www.metacritic.com/game/anomaly-defenders/'}
+2025-11-12 04:11:19,653 [INFO] Последняя карточка на этой странице: {'page': 342, 'title': '8,208. Gex Trilogy', 'link': 'https://www.metacritic.com/game/gex-trilogy/'}
+2025-11-12 04:11:33,536 [INFO] Последняя карточка на этой странице: {'page': 343, 'title': '8,232. SingStar Pop Vol. 2', 'link': 'https://www.metacritic.com/game/singstar-pop-vol-2/'}
+2025-11-12 04:11:42,805 [INFO] Последняя карточка на этой странице: {'page': 344, 'title': '8,256. Before the Echo', 'link': 'https://www.metacritic.com/game/before-the-echo/'}
+2025-11-12 04:11:48,421 [INFO] Последняя карточка на этой странице: {'page': 345, 'title': '8,280. Midway Arcade Treasures Deluxe Edition', 'link': 'https://www.metacritic.com/game/midway-arcade-treasures-deluxe-edition/'}
+2025-11-12 04:11:55,121 [INFO] Последняя карточка на этой странице: {'page': 346, 'title': '8,304. Fate of the World', 'link': 'https://www.metacritic.com/game/fate-of-the-world/'}
+2025-11-12 04:12:00,872 [INFO] Последняя карточка на этой странице: {'page': 347, 'title': '8,328. Apache: Air Assault', 'link': 'https://www.metacritic.com/game/apache-air-assault/'}
+2025-11-12 04:12:06,864 [INFO] Последняя карточка на этой странице: {'page': 348, 'title': '8,352.', 'link': 'https://www.metacritic.com/game/planetbase/'}
+2025-11-12 04:12:14,405 [INFO] Последняя карточка на этой странице: {'page': 349, 'title': '8,376. The Fidelio Incident', 'link': 'https://www.metacritic.com/game/the-fidelio-incident/'}
+2025-11-12 04:12:22,483 [INFO] Последняя карточка на этой странице: {'page': 350, 'title': '8,400. West of Dead', 'link': 'https://www.metacritic.com/game/west-of-dead/'}
+2025-11-12 04:12:28,911 [INFO] Последняя карточка на этой странице: {'page': 351, 'title': '8,424. Korix', 'link': 'https://www.metacritic.com/game/korix/'}
+2025-11-12 04:12:35,266 [INFO] Последняя карточка на этой странице: {'page': 352, 'title': '8,448. God Eater 2: Rage Burst', 'link': 'https://www.metacritic.com/game/god-eater-2-rage-burst/'}
+2025-11-12 04:12:41,263 [INFO] Последняя карточка на этой странице: {'page': 353, 'title': '8,472. SimCity DS', 'link': 'https://www.metacritic.com/game/simcity-ds/'}
+2025-11-12 04:12:46,543 [INFO] Последняя карточка на этой странице: {'page': 354, 'title': '8,496.', 'link': 'https://www.metacritic.com/game/-hack-g-u-vol-1-rebirth/'}
+2025-11-12 04:12:52,522 [INFO] Последняя карточка на этой странице: {'page': 355, 'title': '8,520. NHL 2K9', 'link': 'https://www.metacritic.com/game/nhl-2k9/'}
+2025-11-12 04:12:57,665 [INFO] Последняя карточка на этой странице: {'page': 356, 'title': '8,544. The Bunker (2016)', 'link': 'https://www.metacritic.com/game/the-bunker-2016/'}
+2025-11-12 04:13:03,824 [INFO] Последняя карточка на этой странице: {'page': 357, 'title': '8,568. Toybox Turbos', 'link': 'https://www.metacritic.com/game/toybox-turbos/'}
+2025-11-12 04:13:10,375 [INFO] Последняя карточка на этой странице: {'page': 358, 'title': '8,592. The Dark Spire', 'link': 'https://www.metacritic.com/game/the-dark-spire/'}
+2025-11-12 04:13:15,738 [INFO] Последняя карточка на этой странице: {'page': 359, 'title': "8,616. Kirby's Blowout Blast", 'link': 'https://www.metacritic.com/game/kirbys-blowout-blast/'}
+2025-11-12 04:13:20,704 [INFO] Последняя карточка на этой странице: {'page': 360, 'title': '8,640. 1nsane', 'link': 'https://www.metacritic.com/game/1nsane/'}
+2025-11-12 04:13:27,010 [INFO] Последняя карточка на этой странице: {'page': 361, 'title': '8,664. Silent Line: Armored Core', 'link': 'https://www.metacritic.com/game/silent-line-armored-core/'}
+2025-11-12 04:13:31,970 [INFO] Последняя карточка на этой странице: {'page': 362, 'title': '8,688.', 'link': 'https://www.metacritic.com/game/heartworm/'}
+2025-11-12 04:13:37,199 [INFO] Последняя карточка на этой странице: {'page': 363, 'title': '8,712. Onee Chanbara ORIGIN', 'link': 'https://www.metacritic.com/game/onee-chanbara-origin/'}
+2025-11-12 04:13:42,390 [INFO] Последняя карточка на этой странице: {'page': 364, 'title': '8,736.', 'link': 'https://www.metacritic.com/game/invizimals-the-alliance/'}
+2025-11-12 04:13:47,224 [INFO] Последняя карточка на этой странице: {'page': 365, 'title': '8,760. Vader Immortal: A Star Wars VR Series', 'link': 'https://www.metacritic.com/game/vader-immortal-a-star-wars-vr-series/'}
+2025-11-12 04:13:53,183 [INFO] Последняя карточка на этой странице: {'page': 366, 'title': '8,784.', 'link': 'https://www.metacritic.com/game/shadowgate-2014/'}
+2025-11-12 04:13:57,333 [INFO] Последняя карточка на этой странице: {'page': 367, 'title': '8,808. Night Call', 'link': 'https://www.metacritic.com/game/night-call/'}
+2025-11-12 04:14:01,742 [INFO] Последняя карточка на этой странице: {'page': 368, 'title': '8,832. Nanotale - Typing Chronicles', 'link': 'https://www.metacritic.com/game/nanotale-typing-chronicles/'}
+2025-11-12 04:14:06,378 [INFO] Последняя карточка на этой странице: {'page': 369, 'title': '8,856.', 'link': 'https://www.metacritic.com/game/firmament/'}
+2025-11-12 04:14:12,537 [INFO] Последняя карточка на этой странице: {'page': 370, 'title': '8,880. Far Cry 6 - Pagan: Control', 'link': 'https://www.metacritic.com/game/far-cry-6-pagan-control/'}
+2025-11-12 04:14:17,266 [INFO] Последняя карточка на этой странице: {'page': 371, 'title': '8,904. Rise of the Kasai', 'link': 'https://www.metacritic.com/game/rise-of-the-kasai/'}
+2025-11-12 04:14:21,919 [INFO] Последняя карточка на этой странице: {'page': 372, 'title': '8,928. Yooka-Laylee', 'link': 'https://www.metacritic.com/game/yooka-laylee/'}
+2025-11-12 04:14:27,479 [INFO] Последняя карточка на этой странице: {'page': 373, 'title': '8,952. The Wizards: Enhanced Edition', 'link': 'https://www.metacritic.com/game/the-wizards-enhanced-edition/'}
+2025-11-12 04:14:32,717 [INFO] Последняя карточка на этой странице: {'page': 374, 'title': '8,976. Bone: Out From Boneville', 'link': 'https://www.metacritic.com/game/bone-out-from-boneville/'}
+2025-11-12 04:14:37,347 [INFO] Последняя карточка на этой странице: {'page': 375, 'title': '9,000.', 'link': 'https://www.metacritic.com/game/citadelum/'}
+2025-11-12 04:14:42,464 [INFO] Последняя карточка на этой странице: {'page': 376, 'title': '9,024. Lydia', 'link': 'https://www.metacritic.com/game/lydia/'}
+2025-11-12 04:14:47,633 [INFO] Последняя карточка на этой странице: {'page': 377, 'title': '9,048. Re:ZERO - Starting Life in Another World: The Prophecy of the Throne', 'link': 'https://www.metacritic.com/game/rezero-starting-life-in-another-world-the-prophecy/'}
+2025-11-12 04:14:53,202 [INFO] Последняя карточка на этой странице: {'page': 378, 'title': '9,072. Mega Man X8', 'link': 'https://www.metacritic.com/game/mega-man-x8/'}
+2025-11-12 04:14:57,961 [INFO] Последняя карточка на этой странице: {'page': 379, 'title': '9,096. Tesla Effect: A Tex Murphy Adventure', 'link': 'https://www.metacritic.com/game/tesla-effect-a-tex-murphy-adventure/'}
+2025-11-12 04:15:02,573 [INFO] Последняя карточка на этой странице: {'page': 380, 'title': '9,120. Ice Age: Dawn Of The Dinosaurs', 'link': 'https://www.metacritic.com/game/ice-age-dawn-of-the-dinosaurs/'}
+2025-11-12 04:15:07,017 [INFO] Последняя карточка на этой странице: {'page': 381, 'title': '9,144. The Experiment (2007)', 'link': 'https://www.metacritic.com/game/the-experiment-2007/'}
+2025-11-12 04:15:12,510 [INFO] Последняя карточка на этой странице: {'page': 382, 'title': '9,168. MXGP 2019', 'link': 'https://www.metacritic.com/game/mxgp-2019/'}
+2025-11-12 04:15:16,862 [INFO] Последняя карточка на этой странице: {'page': 383, 'title': '9,192. Munin', 'link': 'https://www.metacritic.com/game/munin/'}
+2025-11-12 04:15:21,640 [INFO] Последняя карточка на этой странице: {'page': 384, 'title': '9,216. Saints Row IV: Enter the Dominatrix', 'link': 'https://www.metacritic.com/game/saints-row-iv-enter-the-dominatrix/'}
+2025-11-12 04:15:26,761 [INFO] Последняя карточка на этой странице: {'page': 385, 'title': '9,240. Shoot Many Robots', 'link': 'https://www.metacritic.com/game/shoot-many-robots/'}
+2025-11-12 04:15:31,257 [INFO] Последняя карточка на этой странице: {'page': 386, 'title': '9,264. Rayman Raving Rabbids 2', 'link': 'https://www.metacritic.com/game/rayman-raving-rabbids-2/'}
+2025-11-12 04:15:35,977 [INFO] Последняя карточка на этой странице: {'page': 387, 'title': '9,288. White Night', 'link': 'https://www.metacritic.com/game/white-night/'}
+2025-11-12 04:15:41,049 [INFO] Последняя карточка на этой странице: {'page': 388, 'title': '9,312. The Almost Gone', 'link': 'https://www.metacritic.com/game/the-almost-gone/'}
+2025-11-12 04:15:45,474 [INFO] Последняя карточка на этой странице: {'page': 389, 'title': '9,336. Planet Monsters', 'link': 'https://www.metacritic.com/game/planet-monsters/'}
+2025-11-12 04:15:51,683 [INFO] Последняя карточка на этой странице: {'page': 390, 'title': '9,360. Dragon Ball Z: Budokai', 'link': 'https://www.metacritic.com/game/dragon-ball-z-budokai/'}
+2025-11-12 04:15:56,978 [INFO] Последняя карточка на этой странице: {'page': 391, 'title': '9,384. Hidden & Dangerous 2: Sabre Squadron', 'link': 'https://www.metacritic.com/game/hidden-and-dangerous-2-sabre-squadron/'}
+2025-11-12 04:16:01,818 [INFO] Последняя карточка на этой странице: {'page': 392, 'title': '9,408. Magical Beat', 'link': 'https://www.metacritic.com/game/magical-beat/'}
+2025-11-12 04:16:06,321 [INFO] Последняя карточка на этой странице: {'page': 393, 'title': '9,432. PaRappa the Rapper 2', 'link': 'https://www.metacritic.com/game/parappa-the-rapper-2/'}
+2025-11-12 04:16:12,609 [INFO] Последняя карточка на этой странице: {'page': 394, 'title': '9,456. Travis Strikes Again: No More Heroes', 'link': 'https://www.metacritic.com/game/travis-strikes-again-no-more-heroes/'}
+2025-11-12 04:16:18,101 [INFO] Последняя карточка на этой странице: {'page': 395, 'title': '9,480.', 'link': 'https://www.metacritic.com/game/counterspy/'}
+2025-11-12 04:16:23,695 [INFO] Последняя карточка на этой странице: {'page': 396, 'title': '9,504. Earth 2150: Lost Souls', 'link': 'https://www.metacritic.com/game/earth-2150-lost-souls/'}
+2025-11-12 04:16:32,106 [INFO] Последняя карточка на этой странице: {'page': 397, 'title': '9,528. Blood Will Tell', 'link': 'https://www.metacritic.com/game/blood-will-tell/'}
+2025-11-12 04:16:37,558 [INFO] Последняя карточка на этой странице: {'page': 398, 'title': '9,552. Prince of Persia: Epilogue', 'link': 'https://www.metacritic.com/game/prince-of-persia-epilogue/'}
+2025-11-12 04:16:44,103 [INFO] Последняя карточка на этой странице: {'page': 399, 'title': '9,576. Galaga', 'link': 'https://www.metacritic.com/game/galaga/'}
+2025-11-12 04:16:50,232 [INFO] Последняя карточка на этой странице: {'page': 400, 'title': '9,600. NHL 25', 'link': 'https://www.metacritic.com/game/nhl-25/'}
+2025-11-12 04:16:55,028 [INFO] Последняя карточка на этой странице: {'page': 401, 'title': '9,624. NASCAR Heat 2', 'link': 'https://www.metacritic.com/game/nascar-heat-2/'}
+2025-11-12 04:16:59,698 [INFO] Последняя карточка на этой странице: {'page': 402, 'title': '9,648. Marlow Briggs and the Mask of Death', 'link': 'https://www.metacritic.com/game/marlow-briggs-and-the-mask-of-death/'}
+2025-11-12 04:17:04,117 [INFO] Последняя карточка на этой странице: {'page': 403, 'title': '9,672. Darius Cozmic Collection: Console', 'link': 'https://www.metacritic.com/game/darius-cozmic-collection-console/'}
+2025-11-12 04:17:08,810 [INFO] Последняя карточка на этой странице: {'page': 404, 'title': '9,696. Disaster Report', 'link': 'https://www.metacritic.com/game/disaster-report/'}
+2025-11-12 04:17:13,259 [INFO] Последняя карточка на этой странице: {'page': 405, 'title': '9,720. The House of the Dead 2 & 3 Return', 'link': 'https://www.metacritic.com/game/the-house-of-the-dead-2-and-3-return/'}
+2025-11-12 04:17:18,728 [INFO] Последняя карточка на этой странице: {'page': 406, 'title': '9,744. L.A. Noire: Reefer Madness', 'link': 'https://www.metacritic.com/game/l-a-noire-reefer-madness/'}
+2025-11-12 04:17:23,283 [INFO] Последняя карточка на этой странице: {'page': 407, 'title': '9,768. Teenage Mutant Ninja Turtles: Mutants Unleashed', 'link': 'https://www.metacritic.com/game/teenage-mutant-ninja-turtles-mutants-unleashed/'}
+2025-11-12 04:17:29,610 [INFO] Последняя карточка на этой странице: {'page': 408, 'title': '9,792. Fallen Legion: Rise to Glory', 'link': 'https://www.metacritic.com/game/fallen-legion-rise-to-glory/'}
+2025-11-12 04:17:34,108 [INFO] Последняя карточка на этой странице: {'page': 409, 'title': '9,816. Dragon Ball Z: Budokai 2', 'link': 'https://www.metacritic.com/game/dragon-ball-z-budokai-2/'}
+2025-11-12 04:17:37,971 [INFO] Последняя карточка на этой странице: {'page': 410, 'title': '9,840. Button City', 'link': 'https://www.metacritic.com/game/button-city/'}
+2025-11-12 04:17:42,774 [INFO] Последняя карточка на этой странице: {'page': 411, 'title': '9,864. Might & Magic: Heroes VI - Shades of Darkness', 'link': 'https://www.metacritic.com/game/might-and-magic-heroes-vi-shades-of-darkness/'}
+2025-11-12 04:17:47,786 [INFO] Последняя карточка на этой странице: {'page': 412, 'title': '9,888. Pitfall: The Lost Expedition (2004)', 'link': 'https://www.metacritic.com/game/pitfall-the-lost-expedition-2004/'}
+2025-11-12 04:17:52,726 [INFO] Последняя карточка на этой странице: {'page': 413, 'title': '9,912. Paleo Pines', 'link': 'https://www.metacritic.com/game/paleo-pines/'}
+2025-11-12 04:17:57,946 [INFO] Последняя карточка на этой странице: {'page': 414, 'title': '9,936. Children of Mana', 'link': 'https://www.metacritic.com/game/children-of-mana/'}
+2025-11-12 04:18:03,154 [INFO] Последняя карточка на этой странице: {'page': 415, 'title': '9,960. The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies', 'link': 'https://www.metacritic.com/game/the-adventures-of-jimmy-neutron-boy-genius-attack/'}
+2025-11-12 04:18:08,437 [INFO] Последняя карточка на этой странице: {'page': 416, 'title': '9,984.', 'link': 'https://www.metacritic.com/game/torchlight-iii/'}
+2025-11-12 04:18:13,015 [INFO] Последняя карточка на этой странице: {'page': 417, 'title': '10,008. Twin Mirror', 'link': 'https://www.metacritic.com/game/twin-mirror/'}
+2025-11-12 04:18:18,317 [INFO] Последняя карточка на этой странице: {'page': 418, 'title': '10,032.', 'link': 'https://www.metacritic.com/game/operation-vietnam/'}
+2025-11-12 04:18:22,682 [INFO] Последняя карточка на этой странице: {'page': 419, 'title': '10,056. Graven', 'link': 'https://www.metacritic.com/game/graven/'}
+2025-11-12 04:18:28,090 [INFO] Последняя карточка на этой странице: {'page': 420, 'title': '10,080. Vampire Night', 'link': 'https://www.metacritic.com/game/vampire-night/'}
+2025-11-12 04:18:33,109 [INFO] Последняя карточка на этой странице: {'page': 421, 'title': '10,104. The Falconeer', 'link': 'https://www.metacritic.com/game/the-falconeer/'}
+2025-11-12 04:18:37,789 [INFO] Последняя карточка на этой странице: {'page': 422, 'title': '10,128. Stranded Deep', 'link': 'https://www.metacritic.com/game/stranded-deep/'}
+2025-11-12 04:18:42,267 [INFO] Последняя карточка на этой странице: {'page': 423, 'title': '10,152. Izuna 2: The Unemployed Ninja Returns', 'link': 'https://www.metacritic.com/game/izuna-2-the-unemployed-ninja-returns/'}
+2025-11-12 04:18:46,462 [INFO] Последняя карточка на этой странице: {'page': 424, 'title': '10,176.', 'link': 'https://www.metacritic.com/game/machiavillain/'}
+2025-11-12 04:18:51,532 [INFO] Последняя карточка на этой странице: {'page': 425, 'title': '10,200. Away: Shuffle Dungeon', 'link': 'https://www.metacritic.com/game/away-shuffle-dungeon/'}
+2025-11-12 04:18:55,965 [INFO] Последняя карточка на этой странице: {'page': 426, 'title': '10,224. Akimbot', 'link': 'https://www.metacritic.com/game/akimbot/'}
+2025-11-12 04:19:00,519 [INFO] Последняя карточка на этой странице: {'page': 427, 'title': '10,248.', 'link': 'https://www.metacritic.com/game/thehunter-call-of-the-wild/'}
+2025-11-12 04:19:05,141 [INFO] Последняя карточка на этой странице: {'page': 428, 'title': '10,272. Aliens vs. Predator', 'link': 'https://www.metacritic.com/game/aliens-vs-predator/'}
+2025-11-12 04:19:10,126 [INFO] Последняя карточка на этой странице: {'page': 429, 'title': '10,296. Touhou Genso Wanderer Reloaded', 'link': 'https://www.metacritic.com/game/touhou-genso-wanderer-reloaded/'}
+2025-11-12 04:19:14,685 [INFO] Последняя карточка на этой странице: {'page': 430, 'title': '10,320. Front Mission 2 Remake', 'link': 'https://www.metacritic.com/game/front-mission-2-remake/'}
+2025-11-12 04:19:19,069 [INFO] Последняя карточка на этой странице: {'page': 431, 'title': '10,344.', 'link': 'https://www.metacritic.com/game/crimsonland/'}
+2025-11-12 04:19:23,878 [INFO] Последняя карточка на этой странице: {'page': 432, 'title': '10,368.', 'link': 'https://www.metacritic.com/game/ghostbusters-rise-of-the-ghost-lord/'}
+2025-11-12 04:19:28,388 [INFO] Последняя карточка на этой странице: {'page': 433, 'title': '10,392. Fire Blade', 'link': 'https://www.metacritic.com/game/fire-blade/'}
+2025-11-12 04:19:34,278 [INFO] Последняя карточка на этой странице: {'page': 434, 'title': '10,416. Dragon Age II: Legacy', 'link': 'https://www.metacritic.com/game/dragon-age-ii-legacy/'}
+2025-11-12 04:19:39,263 [INFO] Последняя карточка на этой странице: {'page': 435, 'title': '10,440. Yosumin!', 'link': 'https://www.metacritic.com/game/yosumin/'}
+2025-11-12 04:19:43,970 [INFO] Последняя карточка на этой странице: {'page': 436, 'title': '10,464. Kapital: Sparks of Revolution', 'link': 'https://www.metacritic.com/game/kapital-sparks-of-revolution/'}
+2025-11-12 04:19:48,873 [INFO] Последняя карточка на этой странице: {'page': 437, 'title': '10,488.', 'link': 'https://www.metacritic.com/game/forspoken/'}
+2025-11-12 04:19:53,355 [INFO] Последняя карточка на этой странице: {'page': 438, 'title': '10,512. Wild Wild Racing', 'link': 'https://www.metacritic.com/game/wild-wild-racing/'}
+2025-11-12 04:19:58,293 [INFO] Последняя карточка на этой странице: {'page': 439, 'title': '10,536. FIFA Street 3', 'link': 'https://www.metacritic.com/game/fifa-street-3/'}
+2025-11-12 04:20:02,724 [INFO] Последняя карточка на этой странице: {'page': 440, 'title': '10,560. Gaucho and the Grassland', 'link': 'https://www.metacritic.com/game/gaucho-and-the-grassland/'}
+2025-11-12 04:20:07,031 [INFO] Последняя карточка на этой странице: {'page': 441, 'title': '10,584. Beat Hazard Ultra', 'link': 'https://www.metacritic.com/game/beat-hazard-ultra/'}
+2025-11-12 04:20:12,527 [INFO] Последняя карточка на этой странице: {'page': 442, 'title': '10,608. WRC 3: FIA World Rally Championship', 'link': 'https://www.metacritic.com/game/wrc-3-fia-world-rally-championship/'}
+2025-11-12 04:20:17,301 [INFO] Последняя карточка на этой странице: {'page': 443, 'title': '10,632. Scrap Metal', 'link': 'https://www.metacritic.com/game/scrap-metal/'}
+2025-11-12 04:20:21,815 [INFO] Последняя карточка на этой странице: {'page': 444, 'title': '10,656. Raw Danger!', 'link': 'https://www.metacritic.com/game/raw-danger/'}
+2025-11-12 04:20:26,676 [INFO] Последняя карточка на этой странице: {'page': 445, 'title': '10,680. Hasbro Family Game Night', 'link': 'https://www.metacritic.com/game/hasbro-family-game-night/'}
+2025-11-12 04:20:32,669 [INFO] Последняя карточка на этой странице: {'page': 446, 'title': '10,704. Arizona Sunshine', 'link': 'https://www.metacritic.com/game/arizona-sunshine/'}
+2025-11-12 04:20:38,214 [INFO] Последняя карточка на этой странице: {'page': 447, 'title': '10,728. Once Upon a Knight', 'link': 'https://www.metacritic.com/game/once-upon-a-knight/'}
+2025-11-12 04:20:45,643 [INFO] Последняя карточка на этой странице: {'page': 448, 'title': '10,752. Ridge Racer DS', 'link': 'https://www.metacritic.com/game/ridge-racer-ds/'}
+2025-11-12 04:20:50,964 [INFO] Последняя карточка на этой странице: {'page': 449, 'title': '10,776. Missile Command (1980)', 'link': 'https://www.metacritic.com/game/missile-command-1980/'}
+2025-11-12 04:20:55,431 [INFO] Последняя карточка на этой странице: {'page': 450, 'title': '10,800. No Escape (2000)', 'link': 'https://www.metacritic.com/game/no-escape-2000/'}
+2025-11-12 04:21:00,556 [INFO] Последняя карточка на этой странице: {'page': 451, 'title': "10,824. Dead Man's Hand", 'link': 'https://www.metacritic.com/game/dead-mans-hand/'}
+2025-11-12 04:21:05,306 [INFO] Последняя карточка на этой странице: {'page': 452, 'title': '10,848. God of Rock', 'link': 'https://www.metacritic.com/game/god-of-rock/'}
+2025-11-12 04:21:09,904 [INFO] Последняя карточка на этой странице: {'page': 453, 'title': '10,872.', 'link': 'https://www.metacritic.com/game/necromunda-hired-gun/'}
+2025-11-12 04:21:14,367 [INFO] Последняя карточка на этой странице: {'page': 454, 'title': '10,896.', 'link': 'https://www.metacritic.com/game/tiebreak-the-official-game-of-the-atp-and-wta/'}
+2025-11-12 04:21:18,707 [INFO] Последняя карточка на этой странице: {'page': 455, 'title': '10,920.', 'link': 'https://www.metacritic.com/game/pokepark-wii-pikachus-adventure/'}
+2025-11-12 04:21:23,546 [INFO] Последняя карточка на этой странице: {'page': 456, 'title': '10,944. Hokko Life', 'link': 'https://www.metacritic.com/game/hokko-life/'}
+2025-11-12 04:21:27,990 [INFO] Последняя карточка на этой странице: {'page': 457, 'title': '10,968. Warship Gunner 2', 'link': 'https://www.metacritic.com/game/warship-gunner-2/'}
+2025-11-12 04:21:32,635 [INFO] Последняя карточка на этой странице: {'page': 458, 'title': '10,992. New Zealand Story Revolution', 'link': 'https://www.metacritic.com/game/new-zealand-story-revolution/'}
+2025-11-12 04:21:37,812 [INFO] Последняя карточка на этой странице: {'page': 459, 'title': '11,016.', 'link': 'https://www.metacritic.com/game/armageddon-riders/'}
+2025-11-12 04:21:42,719 [INFO] Последняя карточка на этой странице: {'page': 460, 'title': '11,040. Sniper Elite: Nazi Zombie Army', 'link': 'https://www.metacritic.com/game/sniper-elite-nazi-zombie-army/'}
+2025-11-12 04:21:48,139 [INFO] Последняя карточка на этой странице: {'page': 461, 'title': '11,064.', 'link': 'https://www.metacritic.com/game/deadpool/'}
+2025-11-12 04:21:53,249 [INFO] Последняя карточка на этой странице: {'page': 462, 'title': '11,088. Athens 2004', 'link': 'https://www.metacritic.com/game/athens-2004/'}
+2025-11-12 04:21:59,323 [INFO] Последняя карточка на этой странице: {'page': 463, 'title': '11,112. Naruto to Boruto: Shinobi Striker', 'link': 'https://www.metacritic.com/game/naruto-to-boruto-shinobi-striker/'}
+2025-11-12 04:22:03,746 [INFO] Последняя карточка на этой странице: {'page': 464, 'title': '11,136. Into the Stars', 'link': 'https://www.metacritic.com/game/into-the-stars/'}
+2025-11-12 04:22:08,265 [INFO] Последняя карточка на этой странице: {'page': 465, 'title': '11,160. Godfall', 'link': 'https://www.metacritic.com/game/godfall/'}
+2025-11-12 04:22:13,806 [INFO] Последняя карточка на этой странице: {'page': 466, 'title': '11,184. Soldier of Fortune II: Double Helix', 'link': 'https://www.metacritic.com/game/soldier-of-fortune-ii-double-helix/'}
+2025-11-12 04:22:18,496 [INFO] Последняя карточка на этой странице: {'page': 467, 'title': '11,208. Monkey King: Hero is Back', 'link': 'https://www.metacritic.com/game/monkey-king-hero-is-back/'}
+2025-11-12 04:22:23,422 [INFO] Последняя карточка на этой странице: {'page': 468, 'title': '11,232.', 'link': 'https://www.metacritic.com/game/championship-surfer/'}
+2025-11-12 04:22:33,419 [INFO] Последняя карточка на этой странице: {'page': 469, 'title': '11,256. Elite Forces: Unit 77', 'link': 'https://www.metacritic.com/game/elite-forces-unit-77/'}
+2025-11-12 04:22:37,974 [INFO] Последняя карточка на этой странице: {'page': 470, 'title': '11,280. ITORAH', 'link': 'https://www.metacritic.com/game/itorah/'}
+2025-11-12 04:22:42,719 [INFO] Последняя карточка на этой странице: {'page': 471, 'title': '11,304. Silent Scope 3', 'link': 'https://www.metacritic.com/game/silent-scope-3/'}
+2025-11-12 04:22:47,774 [INFO] Последняя карточка на этой странице: {'page': 472, 'title': '11,328. Ben 10 Alien Force: Vilgax Attacks', 'link': 'https://www.metacritic.com/game/ben-10-alien-force-vilgax-attacks/'}
+2025-11-12 04:22:52,344 [INFO] Последняя карточка на этой странице: {'page': 473, 'title': '11,352. Massira', 'link': 'https://www.metacritic.com/game/massira/'}
+2025-11-12 04:22:56,934 [INFO] Последняя карточка на этой странице: {'page': 474, 'title': '11,376. Zombie Revenge', 'link': 'https://www.metacritic.com/game/zombie-revenge/'}
+2025-11-12 04:23:02,109 [INFO] Последняя карточка на этой странице: {'page': 475, 'title': '11,400. Spectra: 8bit Racing', 'link': 'https://www.metacritic.com/game/spectra-8bit-racing/'}
+2025-11-12 04:23:06,648 [INFO] Последняя карточка на этой странице: {'page': 476, 'title': '11,424. My Pet Shop', 'link': 'https://www.metacritic.com/game/my-pet-shop/'}
+2025-11-12 04:23:11,727 [INFO] Последняя карточка на этой странице: {'page': 477, 'title': '11,448. Super Crazy Rhythm Castle', 'link': 'https://www.metacritic.com/game/super-crazy-rhythm-castle/'}
+2025-11-12 04:23:16,238 [INFO] Последняя карточка на этой странице: {'page': 478, 'title': '11,472.', 'link': 'https://www.metacritic.com/game/riverbond/'}
+2025-11-12 04:23:20,789 [INFO] Последняя карточка на этой странице: {'page': 479, 'title': '11,496. Harvey Birdman: Attorney at Law', 'link': 'https://www.metacritic.com/game/harvey-birdman-attorney-at-law/'}
+2025-11-12 04:23:25,562 [INFO] Последняя карточка на этой странице: {'page': 480, 'title': '11,520. Gauntlet: Dark Legacy', 'link': 'https://www.metacritic.com/game/gauntlet-dark-legacy/'}
+2025-11-12 04:23:30,045 [INFO] Последняя карточка на этой странице: {'page': 481, 'title': '11,544. Pokemon Mystery Dungeon: Gates to Infinity', 'link': 'https://www.metacritic.com/game/pokemon-mystery-dungeon-gates-to-infinity/'}
+2025-11-12 04:23:34,461 [INFO] Последняя карточка на этой странице: {'page': 482, 'title': "11,568. Shonen Jump's Shaman King: Legacy of the Spirits, Soaring Hawk", 'link': 'https://www.metacritic.com/game/shonen-jumps-shaman-king-legacy-of-the-spirits/'}
+2025-11-12 04:23:38,889 [INFO] Последняя карточка на этой странице: {'page': 483, 'title': '11,592. Soldier of Fortune: Gold Edition', 'link': 'https://www.metacritic.com/game/soldier-of-fortune-gold-edition/'}
+2025-11-12 04:23:43,352 [INFO] Последняя карточка на этой странице: {'page': 484, 'title': '11,616. Legion (2002)', 'link': 'https://www.metacritic.com/game/legion-2002/'}
+2025-11-12 04:23:47,777 [INFO] Последняя карточка на этой странице: {'page': 485, 'title': '11,640.', 'link': 'https://www.metacritic.com/game/tamagotchi-connection-corner-shop/'}
+2025-11-12 04:23:52,330 [INFO] Последняя карточка на этой странице: {'page': 486, 'title': '11,664. Bloody Roar 4', 'link': 'https://www.metacritic.com/game/bloody-roar-4/'}
+2025-11-12 04:23:56,781 [INFO] Последняя карточка на этой странице: {'page': 487, 'title': '11,688. Skellboy', 'link': 'https://www.metacritic.com/game/skellboy/'}
+2025-11-12 04:24:01,429 [INFO] Последняя карточка на этой странице: {'page': 488, 'title': '11,712. ColorZ', 'link': 'https://www.metacritic.com/game/colorz/'}
+2025-11-12 04:24:05,580 [INFO] Последняя карточка на этой странице: {'page': 489, 'title': '11,736. Clid the Snail', 'link': 'https://www.metacritic.com/game/clid-the-snail/'}
+2025-11-12 04:24:10,305 [INFO] Последняя карточка на этой странице: {'page': 490, 'title': '11,760. BigFest', 'link': 'https://www.metacritic.com/game/bigfest/'}
+2025-11-12 04:24:14,851 [INFO] Последняя карточка на этой странице: {'page': 491, 'title': '11,784. King Arthur', 'link': 'https://www.metacritic.com/game/king-arthur/'}
+2025-11-12 04:24:19,128 [INFO] Последняя карточка на этой странице: {'page': 492, 'title': '11,808. Casper: Spirit Dimensions', 'link': 'https://www.metacritic.com/game/casper-spirit-dimensions/'}
+2025-11-12 04:24:23,693 [INFO] Последняя карточка на этой странице: {'page': 493, 'title': '11,832. Eagle Eye Golf', 'link': 'https://www.metacritic.com/game/eagle-eye-golf/'}
+2025-11-12 04:24:28,528 [INFO] Последняя карточка на этой странице: {'page': 494, 'title': '11,856. Super Army War', 'link': 'https://www.metacritic.com/game/super-army-war/'}
+2025-11-12 04:24:33,302 [INFO] Последняя карточка на этой странице: {'page': 495, 'title': '11,880. Atomic Ninjas', 'link': 'https://www.metacritic.com/game/atomic-ninjas/'}
+2025-11-12 04:24:37,821 [INFO] Последняя карточка на этой странице: {'page': 496, 'title': '11,904. V-Rally 4', 'link': 'https://www.metacritic.com/game/v-rally-4/'}
+2025-11-12 04:24:42,847 [INFO] Последняя карточка на этой странице: {'page': 497, 'title': '11,928. Samurai Shodown V', 'link': 'https://www.metacritic.com/game/samurai-shodown-v/'}
+2025-11-12 04:24:47,381 [INFO] Последняя карточка на этой странице: {'page': 498, 'title': "11,952. The Lord of the Rings: Aragorn's Quest", 'link': 'https://www.metacritic.com/game/the-lord-of-the-rings-aragorns-quest/'}
+2025-11-12 04:24:51,737 [INFO] Последняя карточка на этой странице: {'page': 499, 'title': '11,976. Marvel Nemesis: Rise of the Imperfects', 'link': 'https://www.metacritic.com/game/marvel-nemesis-rise-of-the-imperfects/'}
+2025-11-12 04:24:56,204 [INFO] Последняя карточка на этой странице: {'page': 500, 'title': '12,000.', 'link': 'https://www.metacritic.com/game/typoman/'}
+2025-11-12 04:25:00,658 [INFO] Последняя карточка на этой странице: {'page': 501, 'title': '12,024. Space Chimps', 'link': 'https://www.metacritic.com/game/space-chimps/'}
+2025-11-12 04:25:05,592 [INFO] Последняя карточка на этой странице: {'page': 502, 'title': '12,048.', 'link': 'https://www.metacritic.com/game/endgame-2002/'}
+2025-11-12 04:25:11,000 [INFO] Последняя карточка на этой странице: {'page': 503, 'title': '12,072. Disney Bolt', 'link': 'https://www.metacritic.com/game/bolt/'}
+2025-11-12 04:25:15,466 [INFO] Последняя карточка на этой странице: {'page': 504, 'title': '12,096. Legend: Hand of God', 'link': 'https://www.metacritic.com/game/legend-hand-of-god/'}
+2025-11-12 04:25:20,583 [INFO] Последняя карточка на этой странице: {'page': 505, 'title': '12,120. Ruff Trigger: The Vanocore Conspiracy', 'link': 'https://www.metacritic.com/game/ruff-trigger-the-vanocore-conspiracy/'}
+2025-11-12 04:25:25,177 [INFO] Последняя карточка на этой странице: {'page': 506, 'title': '12,144. Mugen Souls Z', 'link': 'https://www.metacritic.com/game/mugen-souls-z/'}
+2025-11-12 04:25:29,849 [INFO] Последняя карточка на этой странице: {'page': 507, 'title': '12,168. Data East Arcade Classics', 'link': 'https://www.metacritic.com/game/data-east-arcade-classics/'}
+2025-11-12 04:25:34,816 [INFO] Последняя карточка на этой странице: {'page': 508, 'title': '12,192. Fullmetal Alchemist and the Broken Angel', 'link': 'https://www.metacritic.com/game/fullmetal-alchemist-and-the-broken-angel/'}
+2025-11-12 04:25:39,569 [INFO] Последняя карточка на этой странице: {'page': 509, 'title': '12,216. Gotcha Force', 'link': 'https://www.metacritic.com/game/gotcha-force/'}
+2025-11-12 04:25:44,238 [INFO] Последняя карточка на этой странице: {'page': 510, 'title': '12,240. Dynasty Warriors Advance', 'link': 'https://www.metacritic.com/game/dynasty-warriors-advance/'}
+2025-11-12 04:25:48,895 [INFO] Последняя карточка на этой странице: {'page': 511, 'title': '12,264. Carnival Games (2007)', 'link': 'https://www.metacritic.com/game/carnival-games-2007/'}
+2025-11-12 04:25:53,823 [INFO] Последняя карточка на этой странице: {'page': 512, 'title': "12,288. Harry Potter and the Sorcerer's Stone", 'link': 'https://www.metacritic.com/game/harry-potter-and-the-sorcerers-stone/'}
+2025-11-12 04:25:58,605 [INFO] Последняя карточка на этой странице: {'page': 513, 'title': '12,312.', 'link': 'https://www.metacritic.com/game/rollercoaster-tycoon-adventures/'}
+2025-11-12 04:26:03,119 [INFO] Последняя карточка на этой странице: {'page': 514, 'title': '12,336. The I of the Dragon', 'link': 'https://www.metacritic.com/game/the-i-of-the-dragon/'}
+2025-11-12 04:26:07,469 [INFO] Последняя карточка на этой странице: {'page': 515, 'title': '12,360. Crimson Dragon', 'link': 'https://www.metacritic.com/game/crimson-dragon/'}
+2025-11-12 04:26:12,129 [INFO] Последняя карточка на этой странице: {'page': 516, 'title': '12,384.', 'link': 'https://www.metacritic.com/game/sportsbarvr/'}
+2025-11-12 04:26:25,794 [INFO] Последняя карточка на этой странице: {'page': 517, 'title': '12,408. Trials of the Blood Dragon', 'link': 'https://www.metacritic.com/game/trials-of-the-blood-dragon/'}
+2025-11-12 04:26:29,926 [INFO] Последняя карточка на этой странице: {'page': 518, 'title': '12,432. Order Up!!', 'link': 'https://www.metacritic.com/game/order-up-2011/'}
+2025-11-12 04:26:34,732 [INFO] Последняя карточка на этой странице: {'page': 519, 'title': '12,456. X-Men Origins: Wolverine (2009)', 'link': 'https://www.metacritic.com/game/x-men-origins-wolverine-2009/'}
+2025-11-12 04:26:43,549 [INFO] Последняя карточка на этой странице: {'page': 520, 'title': '12,480. Grand Theft Auto: The Trilogy - The Definitive Edition', 'link': 'https://www.metacritic.com/game/grand-theft-auto-the-trilogy-the-definitive/'}
+2025-11-12 04:26:48,664 [INFO] Последняя карточка на этой странице: {'page': 521, 'title': '12,504. Frogger: Ancient Shadow', 'link': 'https://www.metacritic.com/game/frogger-ancient-shadow/'}
+2025-11-12 04:26:53,288 [INFO] Последняя карточка на этой странице: {'page': 522, 'title': '12,528. NCAA March Madness 2002', 'link': 'https://www.metacritic.com/game/ncaa-march-madness-2002/'}
+2025-11-12 04:26:59,311 [INFO] Последняя карточка на этой странице: {'page': 523, 'title': '12,552. In Space We Brawl', 'link': 'https://www.metacritic.com/game/in-space-we-brawl/'}
+2025-11-12 04:27:04,935 [INFO] Последняя карточка на этой странице: {'page': 524, 'title': '12,576. E.T. Armies', 'link': 'https://www.metacritic.com/game/et-armies/'}
+2025-11-12 04:27:10,885 [INFO] Последняя карточка на этой странице: {'page': 525, 'title': '12,600.', 'link': 'https://www.metacritic.com/game/universal-combat/'}
+2025-11-12 04:27:16,528 [INFO] Последняя карточка на этой странице: {'page': 526, 'title': '12,624. Gobliiins 4', 'link': 'https://www.metacritic.com/game/gobliiins-4/'}
+2025-11-12 04:27:21,281 [INFO] Последняя карточка на этой странице: {'page': 527, 'title': '12,648. War Times', 'link': 'https://www.metacritic.com/game/war-times/'}
+2025-11-12 04:27:26,056 [INFO] Последняя карточка на этой странице: {'page': 528, 'title': '12,672. CSI: NY', 'link': 'https://www.metacritic.com/game/csi-ny/'}
+2025-11-12 04:27:30,709 [INFO] Последняя карточка на этой странице: {'page': 529, 'title': '12,696. Black Clover: Quartet Knights', 'link': 'https://www.metacritic.com/game/black-clover-quartet-knights/'}
+2025-11-12 04:27:35,227 [INFO] Последняя карточка на этой странице: {'page': 530, 'title': '12,720.', 'link': 'https://www.metacritic.com/game/ragnarok-ds/'}
+2025-11-12 04:27:40,160 [INFO] Последняя карточка на этой странице: {'page': 531, 'title': '12,744. Stranger Things 3: The Game', 'link': 'https://www.metacritic.com/game/stranger-things-3-the-game/'}
+2025-11-12 04:27:45,149 [INFO] Последняя карточка на этой странице: {'page': 532, 'title': '12,768. Space Trader - Merchant Marine', 'link': 'https://www.metacritic.com/game/space-trader-merchant-marine/'}
+2025-11-12 04:27:49,843 [INFO] Последняя карточка на этой странице: {'page': 533, 'title': '12,792. Silent Hill: The Short Message', 'link': 'https://www.metacritic.com/game/silent-hill-the-short-message/'}
+2025-11-12 04:27:56,018 [INFO] Последняя карточка на этой странице: {'page': 534, 'title': '12,816. TerRover', 'link': 'https://www.metacritic.com/game/terrover/'}
+2025-11-12 04:28:00,502 [INFO] Последняя карточка на этой странице: {'page': 535, 'title': '12,840. Contra: Rogue Corps', 'link': 'https://www.metacritic.com/game/contra-rogue-corps/'}
+2025-11-12 04:28:05,146 [INFO] Последняя карточка на этой странице: {'page': 536, 'title': '12,864. Jack Keane 2: The Fire Within', 'link': 'https://www.metacritic.com/game/jack-keane-2-the-fire-within/'}
+2025-11-12 04:28:10,237 [INFO] Последняя карточка на этой странице: {'page': 537, 'title': '12,888. Warlords (2008)', 'link': 'https://www.metacritic.com/game/warlords-2008/'}
+2025-11-12 04:28:14,786 [INFO] Последняя карточка на этой странице: {'page': 538, 'title': '12,912. PDC World Championship Darts 2008', 'link': 'https://www.metacritic.com/game/pdc-world-championship-darts-2008/'}
+2025-11-12 04:28:19,578 [INFO] Последняя карточка на этой странице: {'page': 539, 'title': '12,936.', 'link': 'https://www.metacritic.com/game/confrontation/'}
+2025-11-12 04:28:25,622 [INFO] Последняя карточка на этой странице: {'page': 540, 'title': '12,960. Wing Commander Arena', 'link': 'https://www.metacritic.com/game/wing-commander-arena/'}
+2025-11-12 04:28:30,435 [INFO] Последняя карточка на этой странице: {'page': 541, 'title': '12,984. Bugs vs. Tanks!', 'link': 'https://www.metacritic.com/game/bugs-vs-tanks/'}
+2025-11-12 04:28:36,073 [INFO] Последняя карточка на этой странице: {'page': 542, 'title': '13,008. Shade: Wrath of Angels', 'link': 'https://www.metacritic.com/game/shade-wrath-of-angels/'}
+2025-11-12 04:28:40,650 [INFO] Последняя карточка на этой странице: {'page': 543, 'title': '13,032.', 'link': 'https://www.metacritic.com/game/monopoly-party/'}
+2025-11-12 04:28:44,990 [INFO] Последняя карточка на этой странице: {'page': 544, 'title': '13,056. SWAT: Target Liberty', 'link': 'https://www.metacritic.com/game/swat-target-liberty/'}
+2025-11-12 04:28:49,488 [INFO] Последняя карточка на этой странице: {'page': 545, 'title': '13,080. The Unexpected Quest', 'link': 'https://www.metacritic.com/game/the-unexpected-quest/'}
+2025-11-12 04:28:54,627 [INFO] Последняя карточка на этой странице: {'page': 546, 'title': '13,104.', 'link': 'https://www.metacritic.com/game/beyblade-evolution/'}
+2025-11-12 04:28:59,822 [INFO] Последняя карточка на этой странице: {'page': 547, 'title': '13,128.', 'link': 'https://www.metacritic.com/game/garshasp-the-monster-slayer/'}
+2025-11-12 04:29:04,436 [INFO] Последняя карточка на этой странице: {'page': 548, 'title': '13,152. Puzzle Arcade', 'link': 'https://www.metacritic.com/game/puzzle-arcade/'}
+2025-11-12 04:29:08,957 [INFO] Последняя карточка на этой странице: {'page': 549, 'title': '13,176. Top Gun (2006)', 'link': 'https://www.metacritic.com/game/top-gun-2006/'}
+2025-11-12 04:29:14,166 [INFO] Последняя карточка на этой странице: {'page': 550, 'title': '13,200.', 'link': 'https://www.metacritic.com/game/flingsmash/'}
+2025-11-12 04:29:19,260 [INFO] Последняя карточка на этой странице: {'page': 551, 'title': '13,224. Legend of the North: Konung', 'link': 'https://www.metacritic.com/game/legend-of-the-north-konung/'}
+2025-11-12 04:29:23,659 [INFO] Последняя карточка на этой странице: {'page': 552, 'title': '13,248. Driver: Renegade', 'link': 'https://www.metacritic.com/game/driver-renegade/'}
+2025-11-12 04:29:28,588 [INFO] Последняя карточка на этой странице: {'page': 553, 'title': '13,272. Pac-Man Fever', 'link': 'https://www.metacritic.com/game/pac-man-fever/'}
+2025-11-12 04:29:33,185 [INFO] Последняя карточка на этой странице: {'page': 554, 'title': '13,296. 7 Days to Die', 'link': 'https://www.metacritic.com/game/7-days-to-die/'}
+2025-11-12 04:29:37,908 [INFO] Последняя карточка на этой странице: {'page': 555, 'title': "13,320. Major Minor's Majestic March", 'link': 'https://www.metacritic.com/game/major-minors-majestic-march/'}
+2025-11-12 04:29:42,119 [INFO] Последняя карточка на этой странице: {'page': 556, 'title': '13,344.', 'link': 'https://www.metacritic.com/game/gravitronix/'}
+2025-11-12 04:29:47,540 [INFO] Последняя карточка на этой странице: {'page': 557, 'title': '13,368. AereA', 'link': 'https://www.metacritic.com/game/aerea/'}
+2025-11-12 04:29:53,374 [INFO] Последняя карточка на этой странице: {'page': 558, 'title': '13,392. Arctic Thunder', 'link': 'https://www.metacritic.com/game/arctic-thunder/'}
+2025-11-12 04:29:59,825 [INFO] Последняя карточка на этой странице: {'page': 559, 'title': '13,416. Reservoir Dogs: Bloody Days', 'link': 'https://www.metacritic.com/game/reservoir-dogs-bloody-days/'}
+2025-11-12 04:30:04,420 [INFO] Последняя карточка на этой странице: {'page': 560, 'title': '13,440. Smart Bomb', 'link': 'https://www.metacritic.com/game/smart-bomb/'}
+2025-11-12 04:30:09,819 [INFO] Последняя карточка на этой странице: {'page': 561, 'title': '13,464. Hard Rock Casino', 'link': 'https://www.metacritic.com/game/hard-rock-casino/'}
+2025-11-12 04:30:14,849 [INFO] Последняя карточка на этой странице: {'page': 562, 'title': '13,488. C.O.R.E.', 'link': 'https://www.metacritic.com/game/c-o-r-e/'}
+2025-11-12 04:30:20,140 [INFO] Последняя карточка на этой странице: {'page': 563, 'title': '13,512. MilitAnt', 'link': 'https://www.metacritic.com/game/militant/'}
+2025-11-12 04:30:24,887 [INFO] Последняя карточка на этой странице: {'page': 564, 'title': '13,536. Final Fight: Streetwise', 'link': 'https://www.metacritic.com/game/final-fight-streetwise/'}
+2025-11-12 04:30:30,415 [INFO] Последняя карточка на этой странице: {'page': 565, 'title': '13,560. Asphalt 3D', 'link': 'https://www.metacritic.com/game/asphalt-3d/'}
+2025-11-12 04:30:34,997 [INFO] Последняя карточка на этой странице: {'page': 566, 'title': '13,584. MC Groovz Dance Craze', 'link': 'https://www.metacritic.com/game/mc-groovz-dance-craze/'}
+2025-11-12 04:30:39,691 [INFO] Последняя карточка на этой странице: {'page': 567, 'title': '13,608. Deca Sports 3', 'link': 'https://www.metacritic.com/game/deca-sports-3/'}
+2025-11-12 04:30:44,413 [INFO] Последняя карточка на этой странице: {'page': 568, 'title': '13,632. DARK (2013)', 'link': 'https://www.metacritic.com/game/dark-2013/'}
+2025-11-12 04:30:52,128 [INFO] Последняя карточка на этой странице: {'page': 569, 'title': '13,656. Naval Assault: The Killing Tide', 'link': 'https://www.metacritic.com/game/naval-assault-the-killing-tide/'}
+2025-11-12 04:30:56,947 [INFO] Последняя карточка на этой странице: {'page': 570, 'title': '13,680. Blood Drive (2010)', 'link': 'https://www.metacritic.com/game/blood-drive-2010/'}
+2025-11-12 04:31:01,871 [INFO] Последняя карточка на этой странице: {'page': 571, 'title': '13,704. The Polar Express', 'link': 'https://www.metacritic.com/game/the-polar-express/'}
+2025-11-12 04:31:05,907 [INFO] Последняя карточка на этой странице: {'page': 572, 'title': '13,728. Dead or Alive Paradise', 'link': 'https://www.metacritic.com/game/dead-or-alive-paradise/'}
+2025-11-12 04:31:11,952 [INFO] Последняя карточка на этой странице: {'page': 573, 'title': '13,752. Star Wars Episode II: Attack of the Clones', 'link': 'https://www.metacritic.com/game/star-wars-episode-ii-attack-of-the-clones/'}
+2025-11-12 04:31:16,333 [INFO] Последняя карточка на этой странице: {'page': 574, 'title': '13,776. Defender (Game Boy Advance)', 'link': 'https://www.metacritic.com/game/defender-game-boy-advance/'}
+2025-11-12 04:31:20,687 [INFO] Последняя карточка на этой странице: {'page': 575, 'title': '13,800. The Shield: The Game', 'link': 'https://www.metacritic.com/game/the-shield-the-game/'}
+2025-11-12 04:31:27,520 [INFO] Последняя карточка на этой странице: {'page': 576, 'title': '13,824. Sanity of Morris', 'link': 'https://www.metacritic.com/game/sanity-of-morris/'}
+2025-11-12 04:31:32,300 [INFO] Последняя карточка на этой странице: {'page': 577, 'title': '13,848.', 'link': 'https://www.metacritic.com/game/mcfarlanes-evil-prophecy/'}
+2025-11-12 04:31:37,085 [INFO] Последняя карточка на этой странице: {'page': 578, 'title': "13,872. Land of the Dead: Road to Fiddler's Green", 'link': 'https://www.metacritic.com/game/land-of-the-dead-road-to-fiddlers-green/'}
+2025-11-12 04:31:41,625 [INFO] Последняя карточка на этой странице: {'page': 579, 'title': '13,896.', 'link': 'https://www.metacritic.com/game/robocop-2003/'}
+2025-11-12 04:31:46,436 [INFO] Последняя карточка на этой странице: {'page': 580, 'title': "13,920. Raven's Cry", 'link': 'https://www.metacritic.com/game/ravens-cry/'}
+2025-11-12 04:31:51,113 [INFO] Последняя карточка на этой странице: {'page': 581, 'title': "13,944. Cruis'n", 'link': 'https://www.metacritic.com/game/cruisn/'}
+2025-11-12 04:31:55,895 [INFO] Последняя карточка на этой странице: {'page': 582, 'title': '13,965. Family Party: 30 Great Games Obstacle Arcade', 'link': 'https://www.metacritic.com/game/family-party-30-great-games-obstacle-arcade/'}
+2025-11-12 04:31:55,895 [INFO] Всего собрано записей: 14297
+2025-11-12 04:31:58,080 [INFO] Браузер закрыт.
